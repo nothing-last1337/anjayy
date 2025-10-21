@@ -59,7 +59,7 @@
             {
                 "@type": "Brand",
                 "name": "SLOT GACOR"
-            },
+            }
             "sku": "77GCR",
             "mpn": "77GCR-303",
             "url": "https://www.kyoto-ryoyo.ed.jp/school_life/",
@@ -164,7 +164,7 @@
                 "position": 7,
                 "name": "SITUS GAMING",
                 "item": "https://www.kyoto-ryoyo.ed.jp/school_life/"
-            },
+            }
             ]
         }
     </script>
@@ -177,9 +177,9 @@
             "logo": "https://images.squarespace-cdn.com/content/68f654991a2ef97b191ff728/7b6e1ae2-3dab-4689-a973-0c2bb703dd84/slot+gacor.png?content-type=image%2Fpng",
             "sameAs":
             [
-            "https://www.facebook.com/slot_gacor",
-            "https://twitter.com/slot_gacor",
-            "https://www.instagram.com/slot_gacor"
+                "https://www.facebook.com/slot_gacor",
+                "https://twitter.com/slot_gacor",
+                "https://www.instagram.com/slot_gacor"
             ],
             "contactPoint":
             {
