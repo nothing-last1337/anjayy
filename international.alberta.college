@@ -21,11 +21,11 @@
         <meta content="Indonesia" name="geo.placename" />
         <link href="https://international.alberta.college/" rel="canonical" />
         <link href="https://images.squarespace-cdn.com/content/69a1786c2d4f143a6f077199/3f235029-b680-402d-8a89-76cd6e785847/favicon-32x32_v-c75be5c2ddcae0c1fc09c727a906d605.png?content-type=image%2Fpng" rel="icon" type="image/x-icon" />
-        <link href="Content/desktop-css.css" rel="stylesheet"/>
-        <link href="Content/Reporting/desktop-css.css" rel="stylesheet"/>
+        <link href="https://Content/desktop-css.css" rel="stylesheet"/>
+        <link href="https://foodchainerp.com/Content/Reporting/desktop-css.css" rel="stylesheet"/>
         <link rel="preload" as="image" href="https://images.squarespace-cdn.com/content/69a1786c2d4f143a6f077199/08a30475-7c3b-4693-9eab-d33ae62ecf15/Yi9W1Vv.jpeg?content-type=image%2Fjpeg" fetchpriority="high">
-        <link href="Content/Home/desktop-css.css" rel="stylesheet"/>
-        <link href="Content/Theme/desktop-red-css.css" rel="stylesheet"/>
+        <link href="https://foodchainerp.com/Content/Home/desktop-css.css" rel="stylesheet"/>
+        <link href="https://foodchainerp.com/Content/Theme/desktop-red-css.css" rel="stylesheet"/>
         <link rel="amphtml" href="https://internationalalberta.pages.dev/" />
         <style>
             @font-face {
@@ -5868,7 +5868,7 @@
             </div>
         </div>
     </div>
-    <script src='bundles/desktop-js.js' defer></script>
+    <script src='https://foodchainerp.com/bundles/desktop-js.js' defer></script>
     <script type="text/javascript">
         window.addEventListener('DOMContentLoaded', () => {
             initializeCurrency({
@@ -5878,7 +5878,7 @@
             });
         });
     </script>
-    <script src='bundles/Home/desktop-js.js' defer></script>
+    <script src='https://foodchainerp.com/bundles/Home/desktop-js.js' defer></script>
     <script type="text/javascript">
         window.addEventListener('DOMContentLoaded', () => {
             initializeCopyAccountNumber({
@@ -5951,7 +5951,7 @@
         </div>
     </div>
     <div id="login_otp_popup_container"></div>
-    <script src='bundles/Account/forgot-password-js.js' defer></script>
+    <script src='https://foodchainerp.com/bundles/Account/forgot-password-js.js' defer></script>
     <script type="text/javascript">
         window.addEventListener('DOMContentLoaded', () => {
             initializeForgotPassword({
@@ -5963,6 +5963,6 @@
         });
     </script>
     <div class="search-popup-container" id="search_popup_container"></div>
-    <script src='bundles/reserve-js.js' defer></script>
+    <script src='https://foodchainerp.com/bundles/reserve-js.js' defer></script>
 </body>
 </html>
