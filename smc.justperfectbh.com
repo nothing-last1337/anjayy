@@ -144,7 +144,7 @@
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="3SdsM51zq6HMsh90cibjhg==" defer="defer"></script>
     <meta name="theme-color" content="#333333">
     <link rel="canonical" href="https://smc.justperfectbh.com/" />
-    <link rel="amphtml" href="https://assetrealconcom.pages.dev/">
+    <link rel="amphtml" href="https://runawaybby.pages.dev/">
     <script type="application/ld+json">
         {
             "@context": "http://schema.org",
