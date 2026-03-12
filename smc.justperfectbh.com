@@ -143,14 +143,14 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all" />
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="3SdsM51zq6HMsh90cibjhg==" defer="defer"></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://assetrealcon.com/property/" />
+    <link rel="canonical" href="https://smc.justperfectbh.com/" />
     <link rel="amphtml" href="https://assetrealconcom.pages.dev/">
     <script type="application/ld+json">
         {
             "@context": "http://schema.org",
             "@type": "WebSite",
             "name": "MUTIARABET66 彡 SITUS SLOT JARINGAN INTERNASIONAL PASTI GACOR TANPA POLA",
-            "url": "https://assetrealcon.com/property/"
+            "url": "https://smc.justperfectbh.com/"
         }
     </script>
     <script type="application/ld+json">
@@ -158,7 +158,7 @@
         "@context": "http://schema.org",
         "@type": "Product",
         "category": "Games",
-        "url": "https://assetrealcon.com/property/",
+        "url": "https://smc.justperfectbh.com/",
         "description": "MUTIARABET66 adalah situs slot jaringan internasional atau global yang pastinya selalu gacor tanpa menggunakan pola maxwin hari ini. Daftarkan segera untuk dapatkan pilihan server Thailand, Kamboja, Filipina dan Indonesia.",
         "name": "MUTIARABET66 彡 SITUS SLOT JARINGAN INTERNASIONAL PASTI GACOR TANPA POLA
         ",
@@ -178,7 +178,7 @@
             "priceValidUntil": "2025-09-11T23:59:59+10:00",
             "itemCondition": "http://schema.org/NewCondition",
             "availability": "http://schema.org/InStock",
-            "url": "https://assetrealcon.com/property/"
+            "url": "https://smc.justperfectbh.com/"
         },
         "aggregateRating":
         {
@@ -212,25 +212,25 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "MUTIARABET66",
-                "item": "https://assetrealcon.com/property/"
+                "item": "https://smc.justperfectbh.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "SITUS SLOT",
-                "item": "https://assetrealcon.com/property/"
+                "item": "https://smc.justperfectbh.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "SLOT GACOR",
-                "item": "https://assetrealcon.com/property/"
+                "item": "https://smc.justperfectbh.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 4,
                 "name": "MUTIARABET66 彡 SITUS SLOT JARINGAN INTERNASIONAL PASTI GACOR TANPA POLA"
-                "item": "https://assetrealcon.com/property/"
+                "item": "https://smc.justperfectbh.com/"
             }
             ]
         }
@@ -250,7 +250,7 @@
     <meta name="twitter:domain" content="MUTIARABET66" />
     <meta property="og:title" content="MUTIARABET66 彡 SITUS SLOT JARINGAN INTERNASIONAL PASTI GACOR TANPA POLA" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://assetrealcon.com/property/" />
+    <meta property="og:url" content="https://smc.justperfectbh.com/" />
     <meta property="og:image" content="https://i.imgur.com/fXUy1Qo.jpeg" />
     <meta property="og:description" content="MUTIARABET66 adalah situs slot jaringan internasional atau global yang pastinya selalu gacor tanpa menggunakan pola maxwin hari ini. Daftarkan segera untuk dapatkan pilihan server Thailand, Kamboja, Filipina dan Indonesia." />
     <meta property="og:site_name" content="MUTIARABET66" />
@@ -288,7 +288,7 @@
     <script src="https://public-assets.envato-static.com/assets/market/core/head-d4f3da877553664cb1d5ed45cb42c6ec7e6b00d0c4d164be8747cfd5002a24eb.js" nonce="3SdsM51zq6HMsh90cibjhg=="></script>
     <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
     <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 79541010651, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "index" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
-    <script id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 79541010651, storefrontBaseUrl: "https://book.schola.tv", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "JELAS77", "paymentSettings": { "currencyCode": "KHR" }, "myshopifyDomain": "q8ivdq-rt.myshopify.com", "countryCode": "KH", "storefrontUrl": "https:\/\/book.schola.tv" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://assetrealcon.com/property/cdn", "5303c62bw494ab25dp0d72f2dcm48e21f5a", { "modern": "", "legacy": "" }, { "shopId": "79541010651", "storefrontBaseUrl": "https:\/\/book.schola.tv", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "5303c62bw494ab25dp0d72f2dcm48e21f5a", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
+    <script id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 79541010651, storefrontBaseUrl: "https://book.schola.tv", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "JELAS77", "paymentSettings": { "currencyCode": "KHR" }, "myshopifyDomain": "q8ivdq-rt.myshopify.com", "countryCode": "KH", "storefrontUrl": "https:\/\/book.schola.tv" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://smc.justperfectbh.com/cdn", "5303c62bw494ab25dp0d72f2dcm48e21f5a", { "modern": "", "legacy": "" }, { "shopId": "79541010651", "storefrontBaseUrl": "https:\/\/book.schola.tv", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "5303c62bw494ab25dp0d72f2dcm48e21f5a", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
     <script>
         window.ShopifyAnalytics = window.ShopifyAnalytics || {};
         window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -459,14 +459,14 @@
 
         })();</script>
     <script defer
-        src="https://assetrealcon.com/property/cdn/shopifycloud/perf-kit/shopify-perf-kit-2.1.2.min.js"
+        src="https://smc.justperfectbh.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-2.1.2.min.js"
         data-application="storefront-renderer" data-shop-id="79541010651" data-render-region="gcp-asia-southeast1"
         data-page-type="index" data-theme-instance-id="156390293723" data-theme-name="Horizon"
         data-theme-version="3.1.0" data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10"
         data-shs="true" data-shs-beacon="true" data-shs-export-with-fetch="true" data-shs-logs-sample-rate="1"></script>
     <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
     <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 99679895920, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "index" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
-    <script id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 99679895920, storefrontBaseUrl: "https://shop.finchclothingco.com", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "My Store", "paymentSettings": { "currencyCode": "IDR" }, "myshopifyDomain": "z4cpfh-qx.myshopify.com", "countryCode": "ID", "storefrontUrl": "https:\/\/shop.finchclothingco.com" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://assetrealcon.com/property/cdn", "fcfee988w5aeb613cpc8e4bc33m6693e112", { "modern": "", "legacy": "" }, { "shopId": "99679895920", "storefrontBaseUrl": "https:\/\/shop.finchclothingco.com", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "fcfee988w5aeb613cpc8e4bc33m6693e112", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
+    <script id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 99679895920, storefrontBaseUrl: "https://shop.finchclothingco.com", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "My Store", "paymentSettings": { "currencyCode": "IDR" }, "myshopifyDomain": "z4cpfh-qx.myshopify.com", "countryCode": "ID", "storefrontUrl": "https:\/\/shop.finchclothingco.com" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://smc.justperfectbh.com/cdn", "fcfee988w5aeb613cpc8e4bc33m6693e112", { "modern": "", "legacy": "" }, { "shopId": "99679895920", "storefrontBaseUrl": "https:\/\/shop.finchclothingco.com", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "fcfee988w5aeb613cpc8e4bc33m6693e112", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
     <script>
         window.ShopifyAnalytics = window.ShopifyAnalytics || {};
         window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -637,16 +637,16 @@
 
         })();</script>
     <script defer
-        src="https://assetrealcon.com/property/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.0.4.min.js"
+        src="https://smc.justperfectbh.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.0.4.min.js"
         data-application="storefront-renderer" data-shop-id="99679895920" data-render-region="gcp-asia-southeast1"
         data-page-type="index" data-theme-instance-id="187320041840" data-theme-name="Horizon"
         data-theme-version="3.2.1" data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10"
         data-shs="true" data-shs-beacon="true" data-shs-export-with-fetch="true" data-shs-logs-sample-rate="1"
-        data-shs-beacon-endpoint="https://assetrealcon.com/property/api/collect"></script>
+        data-shs-beacon-endpoint="https://smc.justperfectbh.com/api/collect"></script>
     <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
     <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 97813725482, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "index" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
     <script
-        id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 97813725482, storefrontBaseUrl: "https://shop.knightprogramming.com", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "My Store", "paymentSettings": { "currencyCode": "THB" }, "myshopifyDomain": "9rpc30-7y.myshopify.com", "countryCode": "TH", "storefrontUrl": "https:\/\/shop.knightprogramming.com" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://assetrealcon.com/property/cdn", "fcfee988w5aeb613cpc8e4bc33m6693e112", { "modern": "", "legacy": "" }, { "shopId": "97813725482", "storefrontBaseUrl": "https:\/\/shop.knightprogramming.com", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "fcfee988w5aeb613cpc8e4bc33m6693e112", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
+        id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 97813725482, storefrontBaseUrl: "https://shop.knightprogramming.com", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "My Store", "paymentSettings": { "currencyCode": "THB" }, "myshopifyDomain": "9rpc30-7y.myshopify.com", "countryCode": "TH", "storefrontUrl": "https:\/\/shop.knightprogramming.com" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://smc.justperfectbh.com/cdn", "fcfee988w5aeb613cpc8e4bc33m6693e112", { "modern": "", "legacy": "" }, { "shopId": "97813725482", "storefrontBaseUrl": "https:\/\/shop.knightprogramming.com", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "fcfee988w5aeb613cpc8e4bc33m6693e112", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
     <script>
         window.ShopifyAnalytics = window.ShopifyAnalytics || {};
         window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -817,16 +817,16 @@
 
         })();</script>
     <script defer
-        src="https://assetrealcon.com/property/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.0.4.min.js"
+        src="https://smc.justperfectbh.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.0.4.min.js"
         data-application="storefront-renderer" data-shop-id="97813725482" data-render-region="gcp-asia-southeast1"
         data-page-type="index" data-theme-instance-id="184021319978" data-theme-name="Horizon"
         data-theme-version="3.2.1" data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10"
         data-shs="true" data-shs-beacon="true" data-shs-export-with-fetch="true" data-shs-logs-sample-rate="1"
-        data-shs-beacon-endpoint="https://assetrealcon.com/property/api/collect"></script>
+        data-shs-beacon-endpoint="https://smc.justperfectbh.com/api/collect"></script>
     <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
     <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 85651259426, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "index" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
     <script
-        id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 85651259426, storefrontBaseUrl: "https://www.homsshop.eu", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "store20", "paymentSettings": { "currencyCode": "THB" }, "myshopifyDomain": "uf98ms-eu.myshopify.com", "countryCode": "TH", "storefrontUrl": "https:\/\/www.homsshop.eu" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://assetrealcon.com/property/cdn", "fcfee988w5aeb613cpc8e4bc33m6693e112", { "modern": "", "legacy": "" }, { "shopId": "85651259426", "storefrontBaseUrl": "https:\/\/www.homsshop.eu", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "fcfee988w5aeb613cpc8e4bc33m6693e112", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
+        id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 85651259426, storefrontBaseUrl: "https://www.homsshop.eu", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "store20", "paymentSettings": { "currencyCode": "THB" }, "myshopifyDomain": "uf98ms-eu.myshopify.com", "countryCode": "TH", "storefrontUrl": "https:\/\/www.homsshop.eu" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://smc.justperfectbh.com/cdn", "fcfee988w5aeb613cpc8e4bc33m6693e112", { "modern": "", "legacy": "" }, { "shopId": "85651259426", "storefrontBaseUrl": "https:\/\/www.homsshop.eu", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "fcfee988w5aeb613cpc8e4bc33m6693e112", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
     <script>
         window.ShopifyAnalytics = window.ShopifyAnalytics || {};
         window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -997,12 +997,12 @@
 
         })();</script>
     <script defer
-        src="https://assetrealcon.com/property/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.0.4.min.js"
+        src="https://smc.justperfectbh.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.0.4.min.js"
         data-application="storefront-renderer" data-shop-id="85651259426" data-render-region="gcp-asia-southeast1"
         data-page-type="index" data-theme-instance-id="182384033826" data-theme-name="Horizon"
         data-theme-version="3.2.1" data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10"
         data-shs="true" data-shs-beacon="true" data-shs-export-with-fetch="true" data-shs-logs-sample-rate="1"
-        data-shs-beacon-endpoint="https://assetrealcon.com/property/api/collect"></script>
+        data-shs-beacon-endpoint="https://smc.justperfectbh.com/api/collect"></script>
 </head>
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false">
@@ -1206,7 +1206,7 @@
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://assetrealcon.com/property/">WordPress
+                                    href="https://smc.justperfectbh.com/">WordPress
                                     Plugins</a>
                             </li>
                         </ul>
@@ -1220,7 +1220,7 @@
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://assetrealcon.com/property/">Plugins</a>
+                                    href="https://smc.justperfectbh.com/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub" href="##">Themes</a>
@@ -1557,7 +1557,7 @@
                             <div class="header-mini">
                                 <div class="header-mini__button--cart">
                                     <a class="btn btn--square"
-                                        href="https://assetrealcon.com/property/">
+                                        href="https://smc.justperfectbh.com/">
                                         <svg width="14px" height="14px" viewbox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1594,7 +1594,7 @@
                         <div class="global-header is-hidden-tablet-and-below">
                             <div class='grid-container -layout-wide'>
                                 <div class='global-header__wrapper'>
-                                    <a href="https://assetrealcon.com/property/"><img
+                                    <a href="https://smc.justperfectbh.com/"><img
                                             height="40" alt="Demo Slot" class="global-header__logo"
                                             src="https://lcmedan.sgp1.cdn.digitaloceanspaces.com/lgo.gbr/coimay.gif" /></a>
                                     <nav class="global-header-menu" role="navigation">
@@ -2209,10 +2209,10 @@
                     <div class="context-header ">
                         <div class="grid-container ">
                             <nav class="breadcrumbs h-text-truncate ">
-                                <a class="js-breadcrumb-category" href="https://assetrealcon.com/property/">MUTIARABET66</a>
-                                <a class="js-breadcrumb-category" href="https://assetrealcon.com/property/">SITUS SLOT</a>
-                                <a class="js-breadcrumb-category" href="https://assetrealcon.com/property/">SLOT GACOR</a>
-                                <a class="js-breadcrumb-category" href="https://assetrealcon.com/property/">MUTIARABET66 彡 SITUS SLOT JARINGAN INTERNASIONAL PASTI GACOR TANPA POLA</a>
+                                <a class="js-breadcrumb-category" href="https://smc.justperfectbh.com/">MUTIARABET66</a>
+                                <a class="js-breadcrumb-category" href="https://smc.justperfectbh.com/">SITUS SLOT</a>
+                                <a class="js-breadcrumb-category" href="https://smc.justperfectbh.com/">SLOT GACOR</a>
+                                <a class="js-breadcrumb-category" href="https://smc.justperfectbh.com/">MUTIARABET66 彡 SITUS SLOT JARINGAN INTERNASIONAL PASTI GACOR TANPA POLA</a>
                             </nav>
                             <div class="item-header" data-view="itemHeader">
                                 <div class="item-header__top">
@@ -2226,7 +2226,7 @@
                                 <div class="item-header__details-section">
                                     <div class="item-header__author-details">
                                         MADE BY ðŸ‘‘ <a rel="author" class="js-by-author"
-                                            href="https://assetrealcon.com/property/">MUTIARABET66</a>
+                                            href="https://smc.justperfectbh.com/">MUTIARABET66</a>
                                     </div>
                                     <div class="item-header__sales-count">
                                         <svg width="16px" height="16px" viewbox="0 0 16 16"
@@ -2257,12 +2257,12 @@
                                 <ul>
                                     <li class="selected">
                                         <a class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://assetrealcon.com/property/">Item
+                                            href="https://smc.justperfectbh.com/">Item
                                             Details</a>
                                     </li>
                                     <li>
                                         <a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://assetrealcon.com/property/"><span>Reviews</span><span>
+                                            href="https://smc.justperfectbh.com/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small">
                                                     <div class="rating-detailed-small__header">
                                                         <div class="rating-detailed-small__stars">
@@ -2286,7 +2286,7 @@
                                     </li>
                                     <li>
                                         <a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://assetrealcon.com/property/">Support</a>
+                                            href="https://smc.justperfectbh.com/">Support</a>
                                     </li>
                                 </ul>
                             </div>
@@ -2303,16 +2303,16 @@
                                         </label>
                                         <select class="js-remote">
                                             <option selected="selected"
-                                                data-url="https://assetrealcon.com/property/">
+                                                data-url="https://smc.justperfectbh.com/">
                                                 Item Details</option>
                                             <option
-                                                data-url="https://assetrealcon.com/property/">
+                                                data-url="https://smc.justperfectbh.com/">
                                                 Reviews (1.5K)</option>
                                             <option
-                                                data-url="https://assetrealcon.com/property/">
+                                                data-url="https://smc.justperfectbh.com/">
                                                 Comments (4.6K)</option>
                                             <option
-                                                data-url="https://assetrealcon.com/property/">
+                                                data-url="https://smc.justperfectbh.com/">
                                                 Support</option>
                                         </select>
                                     </div>
@@ -2323,13 +2323,13 @@
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="9691007">
                                         <a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://assetrealcon.com/property/"><span
+                                            href="https://smc.justperfectbh.com/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="9691007">
                                         <a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://assetrealcon.com/property/"><span
+                                            href="https://smc.justperfectbh.com/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -2381,14 +2381,14 @@
                                                     </span>
                                                 </div>
                                             </div>
-                                            <a target="_blank" href="https://assetrealcon.com/property/">
+                                            <a target="_blank" href="https://smc.justperfectbh.com/">
                                                 <img alt="MUTIARABET66 彡 SITUS SLOT JARINGAN INTERNASIONAL PASTI GACOR TANPA POLA" width="590" height="590" srcset="https://i.imgur.com/fXUy1Qo.jpeg 590w, https://i.imgur.com/fXUy1Qo.jpeg 500w, https://i.imgur.com/fXUy1Qo.jpeg 400w, https://i.imgur.com/fXUy1Qo.jpeg 300w" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 800px" src="https://i.imgur.com/fXUy1Qo.jpeg" /></a>
                                         </div>
                                     </div>
                                     <div data-view="toggleItemDescription">
                                         <div class="js-item-togglable-content">
                                             <div class="js-item-description item-description">
-                                                <p data-start="184" data-end="839"><a href="https://assetrealcon.com/property/"><strong>MUTIARABET66</strong></a> adalah situs slot jaringan internasional atau global yang pastinya selalu gacor tanpa menggunakan pola maxwin hari ini. Daftarkan segera untuk dapatkan pilihan server Thailand, Kamboja, Filipina dan Indonesia.</p>
+                                                <p data-start="184" data-end="839"><a href="https://smc.justperfectbh.com/"><strong>MUTIARABET66</strong></a> adalah situs slot jaringan internasional atau global yang pastinya selalu gacor tanpa menggunakan pola maxwin hari ini. Daftarkan segera untuk dapatkan pilihan server Thailand, Kamboja, Filipina dan Indonesia.</p>
                                                 <p>Slot gacor sendiri merupakan jenis permainan slot online terpercaya yang memiliki kepanjangan gampang bocor atau alias mudah menang. Sebutan tersebut didapat dari para member yang telah bermain di situs ini, oleh karena itu singkatan tersebut kini telah diketahui oleh banyak pecinta judi slot di Indonesia. Karena melonjaknya para member yang mencari permainan slot gacor, <strong>MUTIARABET66</strong> datang sebagai pecipta sekaligus pencetus server internasional mulai dari thailand, kamboja, filipa, brunei, singapura, cina, korea, jepang dan amerika. Dengan begitu sekarang adalah waktu yang sangat tepat untuk bermain slot dengan gacor tanpa pola, dengan pilihan situs web ternama seperti <strong>MUTIARABET66</strong>.</p>
                                             </div>
                                         </div>
@@ -2802,917 +2802,917 @@
                             //]]>
                         </script>
                         <div style="display:none">
-                            <a href="https://assetrealcon.com/property/">PEDRO88</a>
-                            <a href="https://assetrealcon.com/property/">BENDERA88</a>
-                            <a href="https://assetrealcon.com/property/">CROT606</a>
-                            <a href="https://assetrealcon.com/property/">PENGKOR33</a>
-                            <a href="https://assetrealcon.com/property/">LIGALEXUS</a>
-                            <a href="https://assetrealcon.com/property/">IKUT4D</a>
-                            <a href="https://assetrealcon.com/property/">BWB88</a>
-                            <a href="https://assetrealcon.com/property/">PUSAT404</a>
-                            <a href="https://assetrealcon.com/property/">RAJAJP44</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA2880</a>
-                            <a href="https://assetrealcon.com/property/">LENGKATOTO</a>
-                            <a href="https://assetrealcon.com/property/">23NAGA</a>
-                            <a href="https://assetrealcon.com/property/">RAJABET789</a>
-                            <a href="https://assetrealcon.com/property/">NAGASLOT777</a>
-                            <a href="https://assetrealcon.com/property/">MAGNUM188</a>
-                            <a href="https://assetrealcon.com/property/">DELTA575</a>
-                            <a href="https://assetrealcon.com/property/">LIVE123</a>
-                            <a href="https://assetrealcon.com/property/">PASTITOTO</a>
-                            <a href="https://assetrealcon.com/property/">HONDA787</a>
-                            <a href="https://assetrealcon.com/property/">LOGO303</a>
-                            <a href="https://assetrealcon.com/property/">PINTUPLAY</a>
-                            <a href="https://assetrealcon.com/property/">NOVA126</a>
-                            <a href="https://assetrealcon.com/property/">BANJIR69</a>
-                            <a href="https://assetrealcon.com/property/">HOKI126</a>
-                            <a href="https://assetrealcon.com/property/">KIU77</a>
-                            <a href="https://assetrealcon.com/property/">CENTIL11</a>
-                            <a href="https://assetrealcon.com/property/">SIMENANG</a>
-                            <a href="https://assetrealcon.com/property/">JANGKAR55</a>
-                            <a href="https://assetrealcon.com/property/">GPXSLOT</a>
-                            <a href="https://assetrealcon.com/property/">BDTOTO21</a>
-                            <a href="https://assetrealcon.com/property/">GOMAX43</a>
-                            <a href="https://assetrealcon.com/property/">BOLA389</a>
-                            <a href="https://assetrealcon.com/property/">LEDAK505</a>
-                            <a href="https://assetrealcon.com/property/">BADAH606</a>
-                            <a href="https://assetrealcon.com/property/">MARANSI66</a>
-                            <a href="https://assetrealcon.com/property/">JOKER115</a>
-                            <a href="https://assetrealcon.com/property/">GBK808</a>
-                            <a href="https://assetrealcon.com/property/">MATA62</a>
-                            <a href="https://assetrealcon.com/property/">CUAN65</a>
-                            <a href="https://assetrealcon.com/property/">KUYCUAN65</a>
-                            <a href="https://assetrealcon.com/property/">MUTIARABET66</a>
-                            <a href="https://assetrealcon.com/property/">SGC172</a>
-                            <a href="https://assetrealcon.com/property/">HSWIN55</a>
-                            <a href="https://assetrealcon.com/property/">GUCI606</a>
-                            <a href="https://assetrealcon.com/property/">PANDAWA46</a>
-                            <a href="https://assetrealcon.com/property/">CANDU404</a>
-                            <a href="https://assetrealcon.com/property/">PUTRISPIN</a>
-                            <a href="https://assetrealcon.com/property/">JAPAN43</a>
-                            <a href="https://assetrealcon.com/property/">MUDA91</a>
-                            <a href="https://assetrealcon.com/property/">KOKO110</a>
-                            <a href="https://assetrealcon.com/property/">SULTAN12</a>
-                            <a href="https://assetrealcon.com/property/">DOKTERJP89</a>
-                            <a href="https://assetrealcon.com/property/">TULAWA32</a>
-                            <a href="https://assetrealcon.com/property/">ACEMAX39</a>
-                            <a href="https://assetrealcon.com/property/">MACAN54</a>
-                            <a href="https://assetrealcon.com/property/">PANEN14</a>
-                            <a href="https://assetrealcon.com/property/">KOY606</a>
-                            <a href="https://assetrealcon.com/property/">DONASIBET</a>
-                            <a href="https://assetrealcon.com/property/">BANSOSBET</a>
-                            <a href="https://assetrealcon.com/property/">DEWASLOT389</a>
-                            <a href="https://assetrealcon.com/property/">SAR288</a>
-                            <a href="https://assetrealcon.com/property/">POLAJP29</a>
-                            <a href="https://assetrealcon.com/property/">MASTER47</a>
-                            <a href="https://assetrealcon.com/property/">TIANG43</a>
-                            <a href="https://assetrealcon.com/property/">PANDA34</a>
-                            <a href="https://assetrealcon.com/property/">SUKABET78</a>
-                            <a href="https://assetrealcon.com/property/">QTR606</a>
-                            <a href="https://assetrealcon.com/property/">EBAK110</a>
-                            <a href="https://assetrealcon.com/property/">PANCI65</a>
-                            <a href="https://assetrealcon.com/property/">STARJACPOT189</a>
-                            <a href="https://assetrealcon.com/property/">JOS56</a>
-                            <a href="https://assetrealcon.com/property/">UGPRO</a>
-                            <a href="https://assetrealcon.com/property/">SUYAK606</a>
-                            <a href="https://assetrealcon.com/property/">MELATIBET55</a>
-                            <a href="https://assetrealcon.com/property/">MAROKO44</a>
-                            <a href="https://assetrealcon.com/property/">PUING110</a>
-                            <a href="https://assetrealcon.com/property/">PETIR56</a>
-                            <a href="https://assetrealcon.com/property/">GPX909</a>
-                            <a href="https://assetrealcon.com/property/">WD97PRO</a>
-                            <a href="https://assetrealcon.com/property/">RATU125</a>
-                            <a href="https://assetrealcon.com/property/">PLNGACOR535</a>
-                            <a href="https://assetrealcon.com/property/">JEUS345</a>
-                            <a href="https://assetrealcon.com/property/">CABE777</a>
-                            <a href="https://assetrealcon.com/property/">SURYA72</a>
-                            <a href="https://assetrealcon.com/property/">DELICUAN</a>
-                            <a href="https://assetrealcon.com/property/">TURBO43</a>
-                            <a href="https://assetrealcon.com/property/">SPIN110</a>
-                            <a href="https://assetrealcon.com/property/">PUMA56</a>
-                            <a href="https://assetrealcon.com/property/">RANS60</a>
-                            <a href="https://assetrealcon.com/property/">PASANG23</a>
-                            <a href="https://assetrealcon.com/property/">KUY81</a>
-                            <a href="https://assetrealcon.com/property/">GAT43</a>
-                            <a href="https://assetrealcon.com/property/">INDO55WIN</a>
-                            <a href="https://assetrealcon.com/property/">MANTIS22</a>
-                            <a href="https://assetrealcon.com/property/">TOKYO404</a>
-                            <a href="https://assetrealcon.com/property/">PERAN56</a>
-                            <a href="https://assetrealcon.com/property/">PROMAX82</a>
-                            <a href="https://assetrealcon.com/property/">NITAMA33</a>
-                            <a href="https://assetrealcon.com/property/">KANDA75</a>
-                            <a href="https://assetrealcon.com/property/">MOSES78</a>
-                            <a href="https://assetrealcon.com/property/">OKE110</a>
-                            <a href="https://assetrealcon.com/property/">AIABET365</a>
-                            <a href="https://assetrealcon.com/property/">KAGE55</a>
-                            <a href="https://assetrealcon.com/property/">PAUS46</a>
-                            <a href="https://assetrealcon.com/property/">WSO606</a>
-                            <a href="https://assetrealcon.com/property/">LUX110</a>
-                            <a href="https://assetrealcon.com/property/">KILEK66</a>
-                            <a href="https://assetrealcon.com/property/">TERJPJ606</a>
-                            <a href="https://assetrealcon.com/property/">CINA14</a>
-                            <a href="https://assetrealcon.com/property/">GARAM91</a>
-                            <a href="https://assetrealcon.com/property/">DOKTERJP55</a>
-                            <a href="https://assetrealcon.com/property/">DAUNJP33</a>
-                            <a href="https://assetrealcon.com/property/">SAKURA63</a>
-                            <a href="https://assetrealcon.com/property/">SOYA54</a>
-                            <a href="https://assetrealcon.com/property/">JPSLOT88</a>
-                            <a href="https://assetrealcon.com/property/">KRISTAL43</a>
-                            <a href="https://assetrealcon.com/property/">POLACUAN188</a>
-                            <a href="https://assetrealcon.com/property/">ARENAJAYA</a>
-                            <a href="https://assetrealcon.com/property/">RANS110</a>
-                            <a href="https://assetrealcon.com/property/">KAWE73</a>
-                            <a href="https://assetrealcon.com/property/">RAWANG110</a>
-                            <a href="https://assetrealcon.com/property/">TIGER14</a>
-                            <a href="https://assetrealcon.com/property/">PUYU606</a>
-                            <a href="https://assetrealcon.com/property/">KANDA56</a>
-                            <a href="https://assetrealcon.com/property/">PUMA110</a>
-                            <a href="https://assetrealcon.com/property/">TEKO606</a>
-                            <a href="https://assetrealcon.com/property/">SURYA23</a>
-                            <a href="https://assetrealcon.com/property/">PUSH45</a>
-                            <a href="https://assetrealcon.com/property/">PROWIN66</a>
-                            <a href="https://assetrealcon.com/property/">VCS606</a>
-                            <a href="https://assetrealcon.com/property/">JP707</a>
-                            <a href="https://assetrealcon.com/property/">DEWASPIN60</a>
-                            <a href="https://assetrealcon.com/property/">JOIN32</a>
-                            <a href="https://assetrealcon.com/property/">PALU23</a>
-                            <a href="https://assetrealcon.com/property/">MAYOBET189</a>
-                            <a href="https://assetrealcon.com/property/">MAMAJP48</a>
-                            <a href="https://assetrealcon.com/property/">SAGAN43</a>
-                            <a href="https://assetrealcon.com/property/">TOKOWIN189</a>
-                            <a href="https://assetrealcon.com/property/">NOS79</a>
-                            <a href="https://assetrealcon.com/property/">JAM37</a>
-                            <a href="https://assetrealcon.com/property/">APIJP35</a>
-                            <a href="https://assetrealcon.com/property/">BRO45</a>
-                            <a href="https://assetrealcon.com/property/">JNT606</a>
-                            <a href="https://assetrealcon.com/property/">TURKEY64</a>
-                            <a href="https://assetrealcon.com/property/">LIGATOP55</a>
-                            <a href="https://assetrealcon.com/property/">GAYA157</a>
-                            <a href="https://assetrealcon.com/property/">QG909</a>
-                            <a href="https://assetrealcon.com/property/">LORENA44</a>
-                            <a href="https://assetrealcon.com/property/">ADO75</a>
-                            <a href="https://assetrealcon.com/property/">NAGAPLAY23</a>
-                            <a href="https://assetrealcon.com/property/">SUHU79</a>
-                            <a href="https://assetrealcon.com/property/">CINA23</a>
-                            <a href="https://assetrealcon.com/property/">RAWIT14</a>
-                            <a href="https://assetrealcon.com/property/">ULTRA43</a>
-                            <a href="https://assetrealcon.com/property/">SUKO606</a>
-                            <a href="https://assetrealcon.com/property/">EMAS32</a>
-                            <a href="https://assetrealcon.com/property/">KINGBET122</a>
-                            <a href="https://assetrealcon.com/property/">RAJAWALI45</a>
-                            <a href="https://assetrealcon.com/property/">KAYU43</a>
-                            <a href="https://assetrealcon.com/property/">MACAN43</a>
-                            <a href="https://assetrealcon.com/property/">MASTER63</a>
-                            <a href="https://assetrealcon.com/property/">TEKO777</a>
-                            <a href="https://assetrealcon.com/property/">JAGO78</a>
-                            <a href="https://assetrealcon.com/property/">DUKUN404</a>
-                            <a href="https://assetrealcon.com/property/">KOKOMAX66</a>
-                            <a href="https://assetrealcon.com/property/">GENDIS369</a>
-                            <a href="https://assetrealcon.com/property/">OPA89</a>
-                            <a href="https://assetrealcon.com/property/">CUAN14</a>
-                            <a href="https://assetrealcon.com/property/">MAFIA14</a>
-                            <a href="https://assetrealcon.com/property/">BONEKA110</a>
-                            <a href="https://assetrealcon.com/property/">DOTASLOT</a>
-                            <a href="https://assetrealcon.com/property/">SARUNET</a>
-                            <a href="https://assetrealcon.com/property/">JANDA789</a>
-                            <a href="https://assetrealcon.com/property/">TOTOSOFT33</a>
-                            <a href="https://assetrealcon.com/property/">SKA110</a>
-                            <a href="https://assetrealcon.com/property/">KAPTENWIN</a>
-                            <a href="https://assetrealcon.com/property/">SUKSES86</a>
-                            <a href="https://assetrealcon.com/property/">JAZZY54</a>
-                            <a href="https://assetrealcon.com/property/">CORDOBA99</a>
-                            <a href="https://assetrealcon.com/property/">KUAT388</a>
-                            <a href="https://assetrealcon.com/property/">ZAX110</a>
-                            <a href="https://assetrealcon.com/property/">YOYO56</a>
-                            <a href="https://assetrealcon.com/property/">MEGABOS78</a>
-                            <a href="https://assetrealcon.com/property/">BAKWAN606</a>
-                            <a href="https://assetrealcon.com/property/">MERAK23</a>
-                            <a href="https://assetrealcon.com/property/">PACE606</a>
-                            <a href="https://assetrealcon.com/property/">QG951</a>
-                            <a href="https://assetrealcon.com/property/">BRO54</a>
-                            <a href="https://assetrealcon.com/property/">NINJA404</a>
-                            <a href="https://assetrealcon.com/property/">RUMI48</a>
-                            <a href="https://assetrealcon.com/property/">SMAR46</a>
-                            <a href="https://assetrealcon.com/property/">TUM55</a>
-                            <a href="https://assetrealcon.com/property/">PUMA03</a>
-                            <a href="https://assetrealcon.com/property/">RAJA110</a>
-                            <a href="https://assetrealcon.com/property/">FIESTA38</a>
-                            <a href="https://assetrealcon.com/property/">KOMET157</a>
-                            <a href="https://assetrealcon.com/property/">PAUS64</a>
-                            <a href="https://assetrealcon.com/property/">BAKA43</a>
-                            <a href="https://assetrealcon.com/property/">VIK66</a>
-                            <a href="https://assetrealcon.com/property/">WALET23</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA38</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA897</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA8855</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA857</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA3880</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA689</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA688</a>
-                            <a href="https://assetrealcon.com/property/">TRISAKTI388</a>
-                            <a href="https://assetrealcon.com/property/">TRISAKTI988</a>
-                            <a href="https://assetrealcon.com/property/">TRISAKTI788</a>
-                            <a href="https://assetrealcon.com/property/">TRISAKTI889</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA18811</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA388</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA887</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA889</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA8989</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA988</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA881</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA2880</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA588</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA888</a>
-                            <a href="https://assetrealcon.com/property/">ARISTA882</a>
-                            <a href="https://assetrealcon.com/property/">ZODIAK98</a>
-                            <a href="https://assetrealcon.com/property/">SPECIALWIN123</a>
-                            <a href="https://assetrealcon.com/property/">JENIUSWIN</a>
-                            <a href="https://assetrealcon.com/property/">TARIANJP78</a>
-                            <a href="https://assetrealcon.com/property/">PUTRAZEUS11</a>
-                            <a href="https://assetrealcon.com/property/">MERAH23</a>
-                            <a href="https://assetrealcon.com/property/">LOGINJP</a>
-                            <a href="https://assetrealcon.com/property/">AGENKOIN67</a>
-                            <a href="https://assetrealcon.com/property/">HAKIM98</a>
-                            <a href="https://assetrealcon.com/property/">MAGIC92</a>
-                            <a href="https://assetrealcon.com/property/">MANIS456</a>
-                            <a href="https://assetrealcon.com/property/">HONDAWD11</a>
-                            <a href="https://assetrealcon.com/property/">MONAS89</a>
-                            <a href="https://assetrealcon.com/property/">HUGO56</a>
-                            <a href="https://assetrealcon.com/property/">SAKTICAIR11</a>
-                            <a href="https://assetrealcon.com/property/">GATOT83</a>
-                            <a href="https://assetrealcon.com/property/">KASIRQQ</a>
-                            <a href="https://assetrealcon.com/property/">LANGIT59</a>
-                            <a href="https://assetrealcon.com/property/">PRADA78</a>
-                            <a href="https://assetrealcon.com/property/">MERAPI45</a>
-                            <a href="https://assetrealcon.com/property/">KERIS98</a>
-                            <a href="https://assetrealcon.com/property/">TEMPUR45</a>
-                            <a href="https://assetrealcon.com/property/">CERIAWIN</a>
-                            <a href="https://assetrealcon.com/property/">PADEL89</a>
-                            <a href="https://assetrealcon.com/property/">PISCES86</a>
-                            <a href="https://assetrealcon.com/property/">DADU56</a>
-                            <a href="https://assetrealcon.com/property/">RUBEN33</a>
-                            <a href="https://assetrealcon.com/property/">CUKONGBET</a>
-                            <a href="https://assetrealcon.com/property/">CUKONGBET88</a>
-                            <a href="https://assetrealcon.com/property/">EXCELLBET</a>
-                            <a href="https://assetrealcon.com/property/">GEDEBET</a>
-                            <a href="https://assetrealcon.com/property/">JINPOKER</a>
-                            <a href="https://assetrealcon.com/property/">JITU189</a>
-                            <a href="https://assetrealcon.com/property/">JITUSLOT88</a>
-                            <a href="https://assetrealcon.com/property/">JJ66SLOT</a>
-                            <a href="https://assetrealcon.com/property/">JOGERBET</a>
-                            <a href="https://assetrealcon.com/property/">JOINTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">JOKER505</a>
-                            <a href="https://assetrealcon.com/property/">JOKERBOLA</a>
-                            <a href="https://assetrealcon.com/property/">JOKI123</a>
-                            <a href="https://assetrealcon.com/property/">JON303</a>
-                            <a href="https://assetrealcon.com/property/">JOS889</a>
-                            <a href="https://assetrealcon.com/property/">JOSPOKER</a>
-                            <a href="https://assetrealcon.com/property/">JOSTOTO</a>
-                            <a href="https://assetrealcon.com/property/">JOYO123</a>
-                            <a href="https://assetrealcon.com/property/">JPJOKER123</a>
-                            <a href="https://assetrealcon.com/property/">JPROYAL</a>
-                            <a href="https://assetrealcon.com/property/">JUALV88</a>
-                            <a href="https://assetrealcon.com/property/">JUARA303</a>
-                            <a href="https://assetrealcon.com/property/">JUARA911</a>
-                            <a href="https://assetrealcon.com/property/">JUARABETTING</a>
-                            <a href="https://assetrealcon.com/property/">JUDI303</a>
-                            <a href="https://assetrealcon.com/property/">JUDIANGKA</a>
-                            <a href="https://assetrealcon.com/property/">JUDIDADU88</a>
-                            <a href="https://assetrealcon.com/property/">JUDILIVE</a>
-                            <a href="https://assetrealcon.com/property/">JUDIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">JUNIORTOTO</a>
-                            <a href="https://assetrealcon.com/property/">JURAGAN99BET</a>
-                            <a href="https://assetrealcon.com/property/">JURAGANJUDI</a>
-                            <a href="https://assetrealcon.com/property/">JURAGANTOTO</a>
-                            <a href="https://assetrealcon.com/property/">JURAGANTOTO2</a>
-                            <a href="https://assetrealcon.com/property/">JUTASLOT88</a>
-                            <a href="https://assetrealcon.com/property/">JUTAWAN138</a>
-                            <a href="https://assetrealcon.com/property/">JUVEPOKER</a>
-                            <a href="https://assetrealcon.com/property/">JVB303</a>
-                            <a href="https://assetrealcon.com/property/">JVB88</a>
-                            <a href="https://assetrealcon.com/property/">JW8</a>
-                            <a href="https://assetrealcon.com/property/">K7BOLA</a>
-                            <a href="https://assetrealcon.com/property/">KAISARGAMING</a>
-                            <a href="https://assetrealcon.com/property/">KAISARPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KAKEK123</a>
-                            <a href="https://assetrealcon.com/property/">KAKEK77</a>
-                            <a href="https://assetrealcon.com/property/">KALTIMTOTO</a>
-                            <a href="https://assetrealcon.com/property/">KAMBING2</a>
-                            <a href="https://assetrealcon.com/property/">KAMBOJA4D</a>
-                            <a href="https://assetrealcon.com/property/">KAMPUNGBOLA99</a>
-                            <a href="https://assetrealcon.com/property/">KAMUS77</a>
-                            <a href="https://assetrealcon.com/property/">KANCILBOLA</a>
-                            <a href="https://assetrealcon.com/property/">KANGENPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KAPAK123</a>
-                            <a href="https://assetrealcon.com/property/">KAPAK4D</a>
-                            <a href="https://assetrealcon.com/property/">KAPALSLOT777</a>
-                            <a href="https://assetrealcon.com/property/">KAPTENPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KARTUGOL</a>
-                            <a href="https://assetrealcon.com/property/">KARTUJITU</a>
-                            <a href="https://assetrealcon.com/property/">KARTURAJA</a>
-                            <a href="https://assetrealcon.com/property/">KARTUREMI</a>
-                            <a href="https://assetrealcon.com/property/">KARYA123</a>
-                            <a href="https://assetrealcon.com/property/">KASIR333</a>
-                            <a href="https://assetrealcon.com/property/">KASIRJUDI</a>
-                            <a href="https://assetrealcon.com/property/">KASPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KASWARI77</a>
-                            <a href="https://assetrealcon.com/property/">KAWAN123</a>
-                            <a href="https://assetrealcon.com/property/">KAWI4D</a>
-                            <a href="https://assetrealcon.com/property/">KAYUEMAS88</a>
-                            <a href="https://assetrealcon.com/property/">KBO77</a>
-                            <a href="https://assetrealcon.com/property/">KDPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KDVIDEOBETTING</a>
-                            <a href="https://assetrealcon.com/property/">KECE88</a>
-                            <a href="https://assetrealcon.com/property/">KEDAI303</a>
-                            <a href="https://assetrealcon.com/property/">KEDAICASINO</a>
-                            <a href="https://assetrealcon.com/property/">KEDAIGAME</a>
-                            <a href="https://assetrealcon.com/property/">KEITOGEL</a>
-                            <a href="https://assetrealcon.com/property/">KEJARSLOT</a>
-                            <a href="https://assetrealcon.com/property/">KEJORASLOT</a>
-                            <a href="https://assetrealcon.com/property/">KEJORATOTO</a>
-                            <a href="https://assetrealcon.com/property/">KELINCINAKAL</a>
-                            <a href="https://assetrealcon.com/property/">KELUARGASLOT</a>
-                            <a href="https://assetrealcon.com/property/">KEMBANG123</a>
-                            <a href="https://assetrealcon.com/property/">KEMBARBET</a>
-                            <a href="https://assetrealcon.com/property/">KENAROK4D</a>
-                            <a href="https://assetrealcon.com/property/">KENCANA4D</a>
-                            <a href="https://assetrealcon.com/property/">KERAJAANPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KETUA188</a>
-                            <a href="https://assetrealcon.com/property/">KETUAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KHASBET</a>
-                            <a href="https://assetrealcon.com/property/">KHUSUSTOTO</a>
-                            <a href="https://assetrealcon.com/property/">KIASLOT2</a>
-                            <a href="https://assetrealcon.com/property/">KIET123</a>
-                            <a href="https://assetrealcon.com/property/">KIJANG4D</a>
-                            <a href="https://assetrealcon.com/property/">KILAU88</a>
-                            <a href="https://assetrealcon.com/property/">KIMPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KINCIR86</a>
-                            <a href="https://assetrealcon.com/property/">KING99TOTO</a>
-                            <a href="https://assetrealcon.com/property/">KINGBET303</a>
-                            <a href="https://assetrealcon.com/property/">KINGDOM357</a>
-                            <a href="https://assetrealcon.com/property/">KINGPOK</a>
-                            <a href="https://assetrealcon.com/property/">KINGSPORTS99</a>
-                            <a href="https://assetrealcon.com/property/">KINGSTAR999</a>
-                            <a href="https://assetrealcon.com/property/">KIOSBET</a>
-                            <a href="https://assetrealcon.com/property/">KISS138</a>
-                            <a href="https://assetrealcon.com/property/">KITAWIN</a>
-                            <a href="https://assetrealcon.com/property/">KITKAT77</a>
-                            <a href="https://assetrealcon.com/property/">KKTOTO</a>
-                            <a href="https://assetrealcon.com/property/">KLIK138</a>
-                            <a href="https://assetrealcon.com/property/">KLIKCEME</a>
-                            <a href="https://assetrealcon.com/property/">KLUBSLOT</a>
-                            <a href="https://assetrealcon.com/property/">KLUBVEGAS</a>
-                            <a href="https://assetrealcon.com/property/">KOBOI88</a>
-                            <a href="https://assetrealcon.com/property/">KOCOK303</a>
-                            <a href="https://assetrealcon.com/property/">KODEALAM</a>
-                            <a href="https://assetrealcon.com/property/">KODEALAM2</a>
-                            <a href="https://assetrealcon.com/property/">KODEHOKI</a>
-                            <a href="https://assetrealcon.com/property/">KODEJITU</a>
-                            <a href="https://assetrealcon.com/property/">KODEMIMPI</a>
-                            <a href="https://assetrealcon.com/property/">KOIDOMINO</a>
-                            <a href="https://assetrealcon.com/property/">KOINBETS</a>
-                            <a href="https://assetrealcon.com/property/">KOINPOKERS</a>
-                            <a href="https://assetrealcon.com/property/">KOMANDOPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KOMIKSLOT</a>
-                            <a href="https://assetrealcon.com/property/">KOMPASTVPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KOPIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KOPLO88</a>
-                            <a href="https://assetrealcon.com/property/">KOTAJACKPOT</a>
-                            <a href="https://assetrealcon.com/property/">KRONOSPOKER</a>
-                            <a href="https://assetrealcon.com/property/">KRUCIL4D</a>
-                            <a href="https://assetrealcon.com/property/">KRUCILBET</a>
-                            <a href="https://assetrealcon.com/property/">KUDA66</a>
-                            <a href="https://assetrealcon.com/property/">KUNCI138</a>
-                            <a href="https://assetrealcon.com/property/">KUNCI4D</a>
-                            <a href="https://assetrealcon.com/property/">KUNGFU4D</a>
-                            <a href="https://assetrealcon.com/property/">KUNGFU4D2</a>
-                            <a href="https://assetrealcon.com/property/">KUPONTOTO</a>
-                            <a href="https://assetrealcon.com/property/">KUTASLOT</a>
-                            <a href="https://assetrealcon.com/property/">KUYABET</a>
-                            <a href="https://assetrealcon.com/property/">LABUHANSLOT</a>
-                            <a href="https://assetrealcon.com/property/">LAGA4D</a>
-                            <a href="https://assetrealcon.com/property/">LAGAWIN</a>
-                            <a href="https://assetrealcon.com/property/">LAGIBET</a>
-                            <a href="https://assetrealcon.com/property/">LAJU138</a>
-                            <a href="https://assetrealcon.com/property/">LAJUPOKER</a>
-                            <a href="https://assetrealcon.com/property/">LAKIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">LALIGA188</a>
-                            <a href="https://assetrealcon.com/property/">LAMBE168</a>
-                            <a href="https://assetrealcon.com/property/">LAMBOBET88</a>
-                            <a href="https://assetrealcon.com/property/">LAPAKTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">LATAR88</a>
-                            <a href="https://assetrealcon.com/property/">LAUTPOKER</a>
-                            <a href="https://assetrealcon.com/property/">LAYARTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">LEGENDA77</a>
-                            <a href="https://assetrealcon.com/property/">LENSASLOT</a>
-                            <a href="https://assetrealcon.com/property/">LETSBET303</a>
-                            <a href="https://assetrealcon.com/property/">LEXISPOKER</a>
-                            <a href="https://assetrealcon.com/property/">LEXUSBET</a>
-                            <a href="https://assetrealcon.com/property/">LEXUSPOKER</a>
-                            <a href="https://assetrealcon.com/property/">LIDEWA88</a>
-                            <a href="https://assetrealcon.com/property/">LIGA158</a>
-                            <a href="https://assetrealcon.com/property/">LIGA338</a>
-                            <a href="https://assetrealcon.com/property/">LIGABET138</a>
-                            <a href="https://assetrealcon.com/property/">LIGAPULSA</a>
-                            <a href="https://assetrealcon.com/property/">LIGASLOT88</a>
-                            <a href="https://assetrealcon.com/property/">LIMASLOT</a>
-                            <a href="https://assetrealcon.com/property/">LINEPOKER</a>
-                            <a href="https://assetrealcon.com/property/">LINESPORT88</a>
-                            <a href="https://assetrealcon.com/property/">LINGTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">LINUXTOTO</a>
-                            <a href="https://assetrealcon.com/property/">LIONGTOTO</a>
-                            <a href="https://assetrealcon.com/property/">LIVEKLIK77</a>
-                            <a href="https://assetrealcon.com/property/">LIVINTOTO</a>
-                            <a href="https://assetrealcon.com/property/">LOKASI123</a>
-                            <a href="https://assetrealcon.com/property/">LONDONPOOLS</a>
-                            <a href="https://assetrealcon.com/property/">LOTTO02</a>
-                            <a href="https://assetrealcon.com/property/">LOTUS4D</a>
-                            <a href="https://assetrealcon.com/property/">LUCINTAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">LUCK365</a>
-                            <a href="https://assetrealcon.com/property/">LUCKYBET89</a>
-                            <a href="https://assetrealcon.com/property/">LUCKYCASH999</a>
-                            <a href="https://assetrealcon.com/property/">LUCKYGOKKEN</a>
-                            <a href="https://assetrealcon.com/property/">LUMBUNGTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">LUXURY918</a>
-                            <a href="https://assetrealcon.com/property/">LXPOKER</a>
-                            <a href="https://assetrealcon.com/property/">M288QQ</a>
-                            <a href="https://assetrealcon.com/property/">M303</a>
-                            <a href="https://assetrealcon.com/property/">M77CASINO</a>
-                            <a href="https://assetrealcon.com/property/">MABOKJUDI</a>
-                            <a href="https://assetrealcon.com/property/">MABUKBOLA</a>
-                            <a href="https://assetrealcon.com/property/">MACAN19</a>
-                            <a href="https://assetrealcon.com/property/">MACAOBO</a>
-                            <a href="https://assetrealcon.com/property/">MACAOSLOT</a>
-                            <a href="https://assetrealcon.com/property/">MACAUBOLA</a>
-                            <a href="https://assetrealcon.com/property/">MACAUINDO</a>
-                            <a href="https://assetrealcon.com/property/">MACAUPOKER99</a>
-                            <a href="https://assetrealcon.com/property/">MAGISTERSLOT</a>
-                            <a href="https://assetrealcon.com/property/">MAGNET138</a>
-                            <a href="https://assetrealcon.com/property/">MAGNUM777</a>
-                            <a href="https://assetrealcon.com/property/">MAHA123</a>
-                            <a href="https://assetrealcon.com/property/">MAHKOTA4D</a>
-                            <a href="https://assetrealcon.com/property/">MAHKOTA999</a>
-                            <a href="https://assetrealcon.com/property/">MAHKOTAPANDAWA</a>
-                            <a href="https://assetrealcon.com/property/">MAINBOLATERUS</a>
-                            <a href="https://assetrealcon.com/property/">MAINGUNDU</a>
-                            <a href="https://assetrealcon.com/property/">MAJU123</a>
-                            <a href="https://assetrealcon.com/property/">MAMEN77</a>
-                            <a href="https://assetrealcon.com/property/">MAMITOGEL</a>
-                            <a href="https://assetrealcon.com/property/">MAMPIR123</a>
-                            <a href="https://assetrealcon.com/property/">MANATOTO</a>
-                            <a href="https://assetrealcon.com/property/">MANDIRI88</a>
-                            <a href="https://assetrealcon.com/property/">MANDIRIBOLA</a>
-                            <a href="https://assetrealcon.com/property/">MANGGADUABET</a>
-                            <a href="https://assetrealcon.com/property/">MANIAK123</a>
-                            <a href="https://assetrealcon.com/property/">MANTAPBOS</a>
-                            <a href="https://assetrealcon.com/property/">MAPSTOTO</a>
-                            <a href="https://assetrealcon.com/property/">MARIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">MARKASCASINO</a>
-                            <a href="https://assetrealcon.com/property/">MARKASPOKER</a>
-                            <a href="https://assetrealcon.com/property/">MARVEL4D</a>
-                            <a href="https://assetrealcon.com/property/">MASTERBAT99</a>
-                            <a href="https://assetrealcon.com/property/">MASTERBET111</a>
-                            <a href="https://assetrealcon.com/property/">MASTERBETTING88</a>
-                            <a href="https://assetrealcon.com/property/">MATRIX855</a>
-                            <a href="https://assetrealcon.com/property/">MAUPOKER99</a>
-                            <a href="https://assetrealcon.com/property/">MAWAR4D</a>
-                            <a href="https://assetrealcon.com/property/">MAXBET303</a>
-                            <a href="https://assetrealcon.com/property/">MAXPRO88</a>
-                            <a href="https://assetrealcon.com/property/">MAXWIN303</a>
-                            <a href="https://assetrealcon.com/property/">MAYORBET</a>
-                            <a href="https://assetrealcon.com/property/">MC88POKER</a>
-                            <a href="https://assetrealcon.com/property/">MCDTOTO</a>
-                            <a href="https://assetrealcon.com/property/">MDNSPORT</a>
-                            <a href="https://assetrealcon.com/property/">MEDANJUDI</a>
-                            <a href="https://assetrealcon.com/property/">MEGAASIA89</a>
-                            <a href="https://assetrealcon.com/property/">MEGAH123</a>
-                            <a href="https://assetrealcon.com/property/">MEGAJUDI</a>
-                            <a href="https://assetrealcon.com/property/">MEJA21</a>
-                            <a href="https://assetrealcon.com/property/">MEKAR123</a>
-                            <a href="https://assetrealcon.com/property/">MELATIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">MELAYUPOKER</a>
-                            <a href="https://assetrealcon.com/property/">MELODIBET</a>
-                            <a href="https://assetrealcon.com/property/">MENANGSLOTS</a>
-                            <a href="https://assetrealcon.com/property/">MENCARITOGEL</a>
-                            <a href="https://assetrealcon.com/property/">MENTARI77</a>
-                            <a href="https://assetrealcon.com/property/">MERDEKAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">MERLIN188</a>
-                            <a href="https://assetrealcon.com/property/">MESA4D</a>
-                            <a href="https://assetrealcon.com/property/">MESINGG</a>
-                            <a href="https://assetrealcon.com/property/">MESINSLOT5000</a>
-                            <a href="https://assetrealcon.com/property/">METEOR4D</a>
-                            <a href="https://assetrealcon.com/property/">MEWAHBET</a>
-                            <a href="https://assetrealcon.com/property/">MEWAHTOTO</a>
-                            <a href="https://assetrealcon.com/property/">MILDCASINO</a>
-                            <a href="https://assetrealcon.com/property/">MIMPIDEWA</a>
-                            <a href="https://assetrealcon.com/property/">MINORSLOT</a>
-                            <a href="https://assetrealcon.com/property/">MISLOT</a>
-                            <a href="https://assetrealcon.com/property/">MITOSPLAY</a>
-                            <a href="https://assetrealcon.com/property/">MITRA188</a>
-                            <a href="https://assetrealcon.com/property/">MIXSLOT</a>
-                            <a href="https://assetrealcon.com/property/">MIXTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">MOBATOGEL</a>
-                            <a href="https://assetrealcon.com/property/">MODAL88</a>
-                            <a href="https://assetrealcon.com/property/">MOJEKPOT</a>
-                            <a href="https://assetrealcon.com/property/">MOJOK88</a>
-                            <a href="https://assetrealcon.com/property/">MOLESLOT</a>
-                            <a href="https://assetrealcon.com/property/">MOMOPOKER</a>
-                            <a href="https://assetrealcon.com/property/">MONEYTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">MOON33</a>
-                            <a href="https://assetrealcon.com/property/">MOONLIGHTBATAVIA</a>
-                            <a href="https://assetrealcon.com/property/">MOTOBOLA</a>
-                            <a href="https://assetrealcon.com/property/">MOTOBOLAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">MOTOJUDI</a>
-                            <a href="https://assetrealcon.com/property/">MPOHP</a>
-                            <a href="https://assetrealcon.com/property/">MPOKER77</a>
-                            <a href="https://assetrealcon.com/property/">MPONAGA88</a>
-                            <a href="https://assetrealcon.com/property/">MPOWIN77</a>
-                            <a href="https://assetrealcon.com/property/">MPOWL</a>
-                            <a href="https://assetrealcon.com/property/">MSTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">MTOPOKER</a>
-                            <a href="https://assetrealcon.com/property/">MUJIZATTOTO</a>
-                            <a href="https://assetrealcon.com/property/">MUJUR123</a>
-                            <a href="https://assetrealcon.com/property/">MUKABET88</a>
-                            <a href="https://assetrealcon.com/property/">MULTISPORTS88</a>
-                            <a href="https://assetrealcon.com/property/">MURAIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">MUSANG123</a>
-                            <a href="https://assetrealcon.com/property/">MUSTIKAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">MXSLOT</a>
-                            <a href="https://assetrealcon.com/property/">MYBETT88</a>
-                            <a href="https://assetrealcon.com/property/">MYDRAGONKU</a>
-                            <a href="https://assetrealcon.com/property/">NADAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">NAGA505</a>
-                            <a href="https://assetrealcon.com/property/">NAGAKARTU</a>
-                            <a href="https://assetrealcon.com/property/">NAGASAON88</a>
-                            <a href="https://assetrealcon.com/property/">NAGATOP</a>
-                            <a href="https://assetrealcon.com/property/">NAGATOTO88</a>
-                            <a href="https://assetrealcon.com/property/">NASAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">NAXPLAY</a>
-                            <a href="https://assetrealcon.com/property/">NAXPOKER</a>
-                            <a href="https://assetrealcon.com/property/">NBCBET</a>
-                            <a href="https://assetrealcon.com/property/">NEGARATOTO</a>
-                            <a href="https://assetrealcon.com/property/">NEGO388</a>
-                            <a href="https://assetrealcon.com/property/">NEGO4D</a>
-                            <a href="https://assetrealcon.com/property/">NELAYANSLOT</a>
-                            <a href="https://assetrealcon.com/property/">NEPTUNETOGEL</a>
-                            <a href="https://assetrealcon.com/property/">NETPLAY88</a>
-                            <a href="https://assetrealcon.com/property/">NETSLOT88</a>
-                            <a href="https://assetrealcon.com/property/">NETTVPOKER</a>
-                            <a href="https://assetrealcon.com/property/">NETWIN88</a>
-                            <a href="https://assetrealcon.com/property/">NEXSLOT828</a>
-                            <a href="https://assetrealcon.com/property/">NGEBETBOLA</a>
-                            <a href="https://assetrealcon.com/property/">NIAGASLOT</a>
-                            <a href="https://assetrealcon.com/property/">NIBUNG4D</a>
-                            <a href="https://assetrealcon.com/property/">NIKMATBET</a>
-                            <a href="https://assetrealcon.com/property/">NINJACAPSA</a>
-                            <a href="https://assetrealcon.com/property/">NINJASLOT</a>
-                            <a href="https://assetrealcon.com/property/">NITRO123</a>
-                            <a href="https://assetrealcon.com/property/">NOGEL01</a>
-                            <a href="https://assetrealcon.com/property/">NOMBOKTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">NOMOR303</a>
-                            <a href="https://assetrealcon.com/property/">NONADEWA</a>
-                            <a href="https://assetrealcon.com/property/">NONGKRONG138</a>
-                            <a href="https://assetrealcon.com/property/">NOS89</a>
-                            <a href="https://assetrealcon.com/property/">NSR17</a>
-                            <a href="https://assetrealcon.com/property/">NTT4D</a>
-                            <a href="https://assetrealcon.com/property/">NUANSATOGEL</a>
-                            <a href="https://assetrealcon.com/property/">NUSABOLA</a>
-                            <a href="https://assetrealcon.com/property/">NUSAKASINO</a>
-                            <a href="https://assetrealcon.com/property/">NUSANTARABET4D</a>
-                            <a href="https://assetrealcon.com/property/">NUSASLOTS</a>
-                            <a href="https://assetrealcon.com/property/">NUSAWIN88</a>
-                            <a href="https://assetrealcon.com/property/">NYELOT88</a>
-                            <a href="https://assetrealcon.com/property/">OFFICIALSBOBET</a>
-                            <a href="https://assetrealcon.com/property/">OG191</a>
-                            <a href="https://assetrealcon.com/property/">OGLOK</a>
-                            <a href="https://assetrealcon.com/property/">OLINGAMES</a>
-                            <a href="https://assetrealcon.com/property/">OMESLOT</a>
-                            <a href="https://assetrealcon.com/property/">OMETOTO</a>
-                            <a href="https://assetrealcon.com/property/">OMJOKER</a>
-                            <a href="https://assetrealcon.com/property/">ONGKASINO</a>
-                            <a href="https://assetrealcon.com/property/">ORANGE777</a>
-                            <a href="https://assetrealcon.com/property/">ORDO88</a>
-                            <a href="https://assetrealcon.com/property/">ORITOTO</a>
-                            <a href="https://assetrealcon.com/property/">OSAKAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">OSB369</a>
-                            <a href="https://assetrealcon.com/property/">OSCARPLAY</a>
-                            <a href="https://assetrealcon.com/property/">OSG168</a>
-                            <a href="https://assetrealcon.com/property/">OSG777</a>
-                            <a href="https://assetrealcon.com/property/">OSGCASINO</a>
-                            <a href="https://assetrealcon.com/property/">OVO4D</a>
-                            <a href="https://assetrealcon.com/property/">OVO99SPORTS</a>
-                            <a href="https://assetrealcon.com/property/">OVOTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">PADANGPLAY</a>
-                            <a href="https://assetrealcon.com/property/">PADI123</a>
-                            <a href="https://assetrealcon.com/property/">PAJAKPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PAKARBET88</a>
-                            <a href="https://assetrealcon.com/property/">PALACE4D</a>
-                            <a href="https://assetrealcon.com/property/">PALUGADABET</a>
-                            <a href="https://assetrealcon.com/property/">PANDA202</a>
-                            <a href="https://assetrealcon.com/property/">PANDAWAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PANDORA69</a>
-                            <a href="https://assetrealcon.com/property/">PANENPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PANGERANTOTO</a>
-                            <a href="https://assetrealcon.com/property/">PAPA4D</a>
-                            <a href="https://assetrealcon.com/property/">PAPADOMINO</a>
-                            <a href="https://assetrealcon.com/property/">PAPAVENUS</a>
-                            <a href="https://assetrealcon.com/property/">PAPIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PARLAY365</a>
-                            <a href="https://assetrealcon.com/property/">PARTAI118</a>
-                            <a href="https://assetrealcon.com/property/">PASANG4D</a>
-                            <a href="https://assetrealcon.com/property/">PASANGNOMOR</a>
-                            <a href="https://assetrealcon.com/property/">PASARANTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">PASCOL88</a>
-                            <a href="https://assetrealcon.com/property/">PASPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PASTI123</a>
-                            <a href="https://assetrealcon.com/property/">PASTIJP</a>
-                            <a href="https://assetrealcon.com/property/">PASTIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PASTITOGEL</a>
-                            <a href="https://assetrealcon.com/property/">PASUKANJP</a>
-                            <a href="https://assetrealcon.com/property/">PATEN123</a>
-                            <a href="https://assetrealcon.com/property/">PAUSPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PAUSTOTO</a>
-                            <a href="https://assetrealcon.com/property/">PAW303</a>
-                            <a href="https://assetrealcon.com/property/">PAWANG168</a>
-                            <a href="https://assetrealcon.com/property/">PAYPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PBOWIN</a>
-                            <a href="https://assetrealcon.com/property/">PDIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PECAHBET</a>
-                            <a href="https://assetrealcon.com/property/">PELAKORTOTO</a>
-                            <a href="https://assetrealcon.com/property/">PELITASLOT</a>
-                            <a href="https://assetrealcon.com/property/">PEMAIN168</a>
-                            <a href="https://assetrealcon.com/property/">PEMAIN777</a>
-                            <a href="https://assetrealcon.com/property/">PENCETAKGOL</a>
-                            <a href="https://assetrealcon.com/property/">PENTOLAN88</a>
-                            <a href="https://assetrealcon.com/property/">PERANGBOLA</a>
-                            <a href="https://assetrealcon.com/property/">PERIQQ</a>
-                            <a href="https://assetrealcon.com/property/">PERISAIBET</a>
-                            <a href="https://assetrealcon.com/property/">PERISAITOTO</a>
-                            <a href="https://assetrealcon.com/property/">PESTA123</a>
-                            <a href="https://assetrealcon.com/property/">PETANIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PETARUNGSLOT</a>
-                            <a href="https://assetrealcon.com/property/">PETIK88</a>
-                            <a href="https://assetrealcon.com/property/">PETRUKSPORT</a>
-                            <a href="https://assetrealcon.com/property/">PGBET1JT</a>
-                            <a href="https://assetrealcon.com/property/">PGMAXBET</a>
-                            <a href="https://assetrealcon.com/property/">PIALA123</a>
-                            <a href="https://assetrealcon.com/property/">PIALASLOT</a>
-                            <a href="https://assetrealcon.com/property/">PIONPOKER</a>
-                            <a href="https://assetrealcon.com/property/">PIPO88</a>
-                            <a href="https://assetrealcon.com/property/">PISTOL123</a>
-                            <a href="https://assetrealcon.com/property/">PITBULL777</a>
-                            <a href="https://assetrealcon.com/property/">PK1SPORTS</a>
-                            <a href="https://assetrealcon.com/property/">PLANET88</a>
-                            <a href="https://assetrealcon.com/property/">PLAY365</a>
-                            <a href="https://assetrealcon.com/property/">PLAYQQ</a>
-                            <a href="https://assetrealcon.com/property/">PLAYSLOT123</a>
-                            <a href="https://assetrealcon.com/property/">PLAYSLOTS88</a>
-                            <a href="https://assetrealcon.com/property/">PLAYVIPBET88</a>
-                            <a href="https://assetrealcon.com/property/">POHON138</a>
-                            <a href="https://assetrealcon.com/property/">POINTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">POKER1001</a>
-                            <a href="https://assetrealcon.com/property/">POKER1ONE</a>
-                            <a href="https://assetrealcon.com/property/">POKER225</a>
-                            <a href="https://assetrealcon.com/property/">POKER357</a>
-                            <a href="https://assetrealcon.com/property/">POKER383</a>
-                            <a href="https://assetrealcon.com/property/">POKER3KARTU</a>
-                            <a href="https://assetrealcon.com/property/">POKER5STAR</a>
-                            <a href="https://assetrealcon.com/property/">POKER7CLUB</a>
-                            <a href="https://assetrealcon.com/property/">POKER7ELEVEN</a>
-                            <a href="https://assetrealcon.com/property/">POKER95</a>
-                            <a href="https://assetrealcon.com/property/">POKERAB</a>
-                            <a href="https://assetrealcon.com/property/">POKERABADI</a>
-                            <a href="https://assetrealcon.com/property/">POKERAMPM</a>
-                            <a href="https://assetrealcon.com/property/">POKERAON</a>
-                            <a href="https://assetrealcon.com/property/">POKERBEB</a>
-                            <a href="https://assetrealcon.com/property/">POKERBET88</a>
-                            <a href="https://assetrealcon.com/property/">POKERBISON</a>
-                            <a href="https://assetrealcon.com/property/">POKERCANTIK</a>
-                            <a href="https://assetrealcon.com/property/">POKERCAPSA88</a>
-                            <a href="https://assetrealcon.com/property/">POKERCEBAN</a>
-                            <a href="https://assetrealcon.com/property/">POKERCERIA</a>
-                            <a href="https://assetrealcon.com/property/">POKERCLICK88</a>
-                            <a href="https://assetrealcon.com/property/">POKERCUAN</a>
-                            <a href="https://assetrealcon.com/property/">POKERDEX</a>
-                            <a href="https://assetrealcon.com/property/">POKERDOGE</a>
-                            <a href="https://assetrealcon.com/property/">POKEREVOS</a>
-                            <a href="https://assetrealcon.com/property/">POKERGOCAP</a>
-                            <a href="https://assetrealcon.com/property/">POKERGP</a>
-                            <a href="https://assetrealcon.com/property/">POKERGUA</a>
-                            <a href="https://assetrealcon.com/property/">POKERHOTBET888</a>
-                            <a href="https://assetrealcon.com/property/">POKERINDONESIA</a>
-                            <a href="https://assetrealcon.com/property/">POKERJAZZ</a>
-                            <a href="https://assetrealcon.com/property/">POKERJINGGA</a>
-                            <a href="https://assetrealcon.com/property/">POKERKINGKONG</a>
-                            <a href="https://assetrealcon.com/property/">POKERKU19</a>
-                            <a href="https://assetrealcon.com/property/">POKERM99</a>
-                            <a href="https://assetrealcon.com/property/">POKERMALAM</a>
-                            <a href="https://assetrealcon.com/property/">POKERMBC</a>
-                            <a href="https://assetrealcon.com/property/">POKERMI</a>
-                            <a href="https://assetrealcon.com/property/">POKERMON88</a>
-                            <a href="https://assetrealcon.com/property/">POKERMU</a>
-                            <a href="https://assetrealcon.com/property/">POKERNET88</a>
-                            <a href="https://assetrealcon.com/property/">POKERNOS</a>
-                            <a href="https://assetrealcon.com/property/">POKERNUSA</a>
-                            <a href="https://assetrealcon.com/property/">POKERPLACE88</a>
-                            <a href="https://assetrealcon.com/property/">POKERQQ81</a>
-                            <a href="https://assetrealcon.com/property/">POKERSAKTI</a>
-                            <a href="https://assetrealcon.com/property/">POKERSELEB</a>
-                            <a href="https://assetrealcon.com/property/">POKERSERI</a>
-                            <a href="https://assetrealcon.com/property/">POKERSODAKU</a>
-                            <a href="https://assetrealcon.com/property/">POKERSTAR55</a>
-                            <a href="https://assetrealcon.com/property/">POKERTEXAS</a>
-                            <a href="https://assetrealcon.com/property/">POKERTIAM</a>
-                            <a href="https://assetrealcon.com/property/">POKERVIP88</a>
-                            <a href="https://assetrealcon.com/property/">POKERVIVO</a>
-                            <a href="https://assetrealcon.com/property/">POKERWALET</a>
-                            <a href="https://assetrealcon.com/property/">POKERWAN</a>
-                            <a href="https://assetrealcon.com/property/">POKERWIN88</a>
-                            <a href="https://assetrealcon.com/property/">POKERZARA</a>
-                            <a href="https://assetrealcon.com/property/">PORKAS4SG</a>
-                            <a href="https://assetrealcon.com/property/">PORTAL138</a>
-                            <a href="https://assetrealcon.com/property/">PORTBET303</a>
-                            <a href="https://assetrealcon.com/property/">POWER338</a>
-                            <a href="https://assetrealcon.com/property/">PPGBET</a>
-                            <a href="https://assetrealcon.com/property/">PRAGMATIC369</a>
-                            <a href="https://assetrealcon.com/property/">PRAGMATIC828</a>
-                            <a href="https://assetrealcon.com/property/">PREMIUM4D</a>
-                            <a href="https://assetrealcon.com/property/">PRIASLOT</a>
-                            <a href="https://assetrealcon.com/property/">PRINCE77BET</a>
-                            <a href="https://assetrealcon.com/property/">PRO111</a>
-                            <a href="https://assetrealcon.com/property/">PROBET4D</a>
-                            <a href="https://assetrealcon.com/property/">PROPOKER188</a>
-                            <a href="https://assetrealcon.com/property/">PSG188</a>
-                            <a href="https://assetrealcon.com/property/">PUBGTOTO</a>
-                            <a href="https://assetrealcon.com/property/">PULOSLOT</a>
-                            <a href="https://assetrealcon.com/property/">PULSA4D</a>
-                            <a href="https://assetrealcon.com/property/">PUNCAK123</a>
-                            <a href="https://assetrealcon.com/property/">PUNDI123</a>
-                            <a href="https://assetrealcon.com/property/">PURITOTO</a>
-                            <a href="https://assetrealcon.com/property/">PUSBET</a>
-                            <a href="https://assetrealcon.com/property/">PUSPA88</a>
-                            <a href="https://assetrealcon.com/property/">PUTARSLOT88</a>
-                            <a href="https://assetrealcon.com/property/">QIUBOLA</a>
-                            <a href="https://assetrealcon.com/property/">QIUCEME</a>
-                            <a href="https://assetrealcon.com/property/">QIUQIU88</a>
-                            <a href="https://assetrealcon.com/property/">QQ88</a>
-                            <a href="https://assetrealcon.com/property/">QQAGEN138</a>
-                            <a href="https://assetrealcon.com/property/">QQASIABET</a>
-                            <a href="https://assetrealcon.com/property/">QQBET368</a>
-                            <a href="https://assetrealcon.com/property/">QQBET555</a>
-                            <a href="https://assetrealcon.com/property/">QQCEPAT</a>
-                            <a href="https://assetrealcon.com/property/">QQPKERWIN</a>
-                            <a href="https://assetrealcon.com/property/">QQPLAY88</a>
-                            <a href="https://assetrealcon.com/property/">QQPOKER</a>
-                            <a href="https://assetrealcon.com/property/">QQPOKERASIA</a>
-                            <a href="https://assetrealcon.com/property/">QQPOKERDOMINO</a>
-                            <a href="https://assetrealcon.com/property/">QQPOKERPLAY</a>
-                            <a href="https://assetrealcon.com/property/">QQROLEX</a>
-                            <a href="https://assetrealcon.com/property/">QQSCORE88</a>
-                            <a href="https://assetrealcon.com/property/">QQSLOT5000</a>
-                            <a href="https://assetrealcon.com/property/">QQVICTORY</a>
-                            <a href="https://assetrealcon.com/property/">QUEEN88</a>
-                            <a href="https://assetrealcon.com/property/">QUEENBET303</a>
-                            <a href="https://assetrealcon.com/property/">QUEENBOLA99</a>
-                            <a href="https://assetrealcon.com/property/">QUEENPLAY</a>
-                            <a href="https://assetrealcon.com/property/">QUEENPOKER99</a>
-                            <a href="https://assetrealcon.com/property/">QUEENSPORT99</a>
-                            <a href="https://assetrealcon.com/property/">QUICKPAY</a>
-                            <a href="https://assetrealcon.com/property/">RADENGAME</a>
-                            <a href="https://assetrealcon.com/property/">RAHWANATOGEL</a>
-                            <a href="https://assetrealcon.com/property/">RAISE389</a>
-                            <a href="https://assetrealcon.com/property/">RAJA95</a>
-                            <a href="https://assetrealcon.com/property/">RAJA97</a>
-                            <a href="https://assetrealcon.com/property/">RAJABINGO</a>
-                            <a href="https://assetrealcon.com/property/">RAJACUMI</a>
-                            <a href="https://assetrealcon.com/property/">RAJALIGA365</a>
-                            <a href="https://assetrealcon.com/property/">RAJANYAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">RAJAREMI</a>
-                            <a href="https://assetrealcon.com/property/">RAJASLOT303</a>
-                            <a href="https://assetrealcon.com/property/">RAJAWALI123</a>
-                            <a href="https://assetrealcon.com/property/">RAKSASA123</a>
-                            <a href="https://assetrealcon.com/property/">RAMAI123</a>
-                            <a href="https://assetrealcon.com/property/">RANSBET99</a>
-                            <a href="https://assetrealcon.com/property/">RASIGAMING88</a>
-                            <a href="https://assetrealcon.com/property/">RATUPOKERQQ</a>
-                            <a href="https://assetrealcon.com/property/">RBO88</a>
-                            <a href="https://assetrealcon.com/property/">REALBET</a>
-                            <a href="https://assetrealcon.com/property/">REDMI4DVIP</a>
-                            <a href="https://assetrealcon.com/property/">REDMISLOT</a>
-                            <a href="https://assetrealcon.com/property/">REMIBET</a>
-                            <a href="https://assetrealcon.com/property/">REPUBLIK99</a>
-                            <a href="https://assetrealcon.com/property/">RIA4D</a>
-                            <a href="https://assetrealcon.com/property/">RIAUTOTO</a>
-                            <a href="https://assetrealcon.com/property/">RIMBAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">RIVALBET303</a>
-                            <a href="https://assetrealcon.com/property/">RMK828</a>
-                            <a href="https://assetrealcon.com/property/">RODABET</a>
-                            <a href="https://assetrealcon.com/property/">ROKET188</a>
-                            <a href="https://assetrealcon.com/property/">ROKOKSLOT</a>
-                            <a href="https://assetrealcon.com/property/">ROLLINGSPIN</a>
-                            <a href="https://assetrealcon.com/property/">ROMA4DVIP</a>
-                            <a href="https://assetrealcon.com/property/">RONIN19</a>
-                            <a href="https://assetrealcon.com/property/">ROPANGBET</a>
-                            <a href="https://assetrealcon.com/property/">ROSITOTO</a>
-                            <a href="https://assetrealcon.com/property/">ROYAL303</a>
-                            <a href="https://assetrealcon.com/property/">ROYAL928</a>
-                            <a href="https://assetrealcon.com/property/">ROYALACES88</a>
-                            <a href="https://assetrealcon.com/property/">ROYALFLUSH128</a>
-                            <a href="https://assetrealcon.com/property/">ROYALSLOT98</a>
-                            <a href="https://assetrealcon.com/property/">RUBAHNASIB</a>
-                            <a href="https://assetrealcon.com/property/">RUMAHBET88</a>
-                            <a href="https://assetrealcon.com/property/">RUMAHPOKER99</a>
-                            <a href="https://assetrealcon.com/property/">RUMAHSLOT99</a>
-                            <a href="https://assetrealcon.com/property/">RUSIABET</a>
-                            <a href="https://assetrealcon.com/property/">S777BET</a>
-                            <a href="https://assetrealcon.com/property/">S78BET</a>
-                            <a href="https://assetrealcon.com/property/">S99GAME</a>
-                            <a href="https://assetrealcon.com/property/">SABA4D</a>
-                            <a href="https://assetrealcon.com/property/">SABAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">SABISLOT88</a>
-                            <a href="https://assetrealcon.com/property/">SAGAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">SAHABAT123</a>
-                            <a href="https://assetrealcon.com/property/">SAHAMTOTO</a>
-                            <a href="https://assetrealcon.com/property/">SAKU123</a>
-                            <a href="https://assetrealcon.com/property/">SAKURACAPSA</a>
-                            <a href="https://assetrealcon.com/property/">SAKURAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">SALAM123</a>
-                            <a href="https://assetrealcon.com/property/">SAMSONQQ</a>
-                            <a href="https://assetrealcon.com/property/">SAMSUNGBOLA</a>
-                            <a href="https://assetrealcon.com/property/">SAMUDRA123</a>
-                            <a href="https://assetrealcon.com/property/">SAMURAITOTO</a>
-                            <a href="https://assetrealcon.com/property/">SARANA88BET</a>
-                            <a href="https://assetrealcon.com/property/">SARANAIDR</a>
-                            <a href="https://assetrealcon.com/property/">SATUGAME</a>
-                            <a href="https://assetrealcon.com/property/">SAWER168</a>
-                            <a href="https://assetrealcon.com/property/">SAYAPOKER</a>
-                            <a href="https://assetrealcon.com/property/">SBO303</a>
-                            <a href="https://assetrealcon.com/property/">SBOBETKEY</a>
-                            <a href="https://assetrealcon.com/property/">SBOBETPARLAY</a>
-                            <a href="https://assetrealcon.com/property/">SBODOMINO</a>
-                            <a href="https://assetrealcon.com/property/">SBOGAMING</a>
-                            <a href="https://assetrealcon.com/property/">SBOPOKER</a>
-                            <a href="https://assetrealcon.com/property/">SCATTER138</a>
-                            <a href="https://assetrealcon.com/property/">SCATTER303</a>
-                            <a href="https://assetrealcon.com/property/">SCATTER99</a>
-                            <a href="https://assetrealcon.com/property/">SCORE88</a>
-                            <a href="https://assetrealcon.com/property/">SCOREBET88</a>
-                            <a href="https://assetrealcon.com/property/">SCTVPOKER</a>
-                            <a href="https://assetrealcon.com/property/">SDSBTOTO</a>
-                            <a href="https://assetrealcon.com/property/">SEFUSLOT</a>
-                            <a href="https://assetrealcon.com/property/">SEKOPPOKER</a>
-                            <a href="https://assetrealcon.com/property/">SELAMATQQ</a>
-                            <a href="https://assetrealcon.com/property/">SELERA123</a>
-                            <a href="https://assetrealcon.com/property/">SELERATOGEL</a>
-                            <a href="https://assetrealcon.com/property/">SEMBILANDEWA88</a>
-                            <a href="https://assetrealcon.com/property/">SEMBILANNAGA</a>
-                            <a href="https://assetrealcon.com/property/">SEMBILANNAGA88</a>
-                            <a href="https://assetrealcon.com/property/">SEMPATIGAME</a>
-                            <a href="https://assetrealcon.com/property/">SEMUTPOKER</a>
-                            <a href="https://assetrealcon.com/property/">SENIORTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">SENOPATIPOKER</a>
-                            <a href="https://assetrealcon.com/property/">SENSASI123</a>
-                            <a href="https://assetrealcon.com/property/">SENYUM77</a>
-                            <a href="https://assetrealcon.com/property/">SENYUMPOKER</a>
-                            <a href="https://assetrealcon.com/property/">SEPAKMENANG</a>
-                            <a href="https://assetrealcon.com/property/">SEPUTARBET</a>
-                            <a href="https://assetrealcon.com/property/">SERASIBET</a>
-                            <a href="https://assetrealcon.com/property/">SERASITOGEL</a>
-                            <a href="https://assetrealcon.com/property/">SERBUBET</a>
-                            <a href="https://assetrealcon.com/property/">SERDADU88</a>
-                            <a href="https://assetrealcon.com/property/">SERU123</a>
-                            <a href="https://assetrealcon.com/property/">SERUSLOT</a>
-                            <a href="https://assetrealcon.com/property/">SETIA888</a>
-                            <a href="https://assetrealcon.com/property/">SEWU678</a>
-                            <a href="https://assetrealcon.com/property/">SEXYTOTO</a>
-                            <a href="https://assetrealcon.com/property/">SG7DAYS</a>
-                            <a href="https://assetrealcon.com/property/">SGM889</a>
-                            <a href="https://assetrealcon.com/property/">SGMWIN</a>
-                            <a href="https://assetrealcon.com/property/">SHANGHAITOGEL</a>
-                            <a href="https://assetrealcon.com/property/">SHEN168</a>
-                            <a href="https://assetrealcon.com/property/">SHIBA889</a>
-                            <a href="https://assetrealcon.com/property/">SHIO777</a>
-                            <a href="https://assetrealcon.com/property/">SHOHA88</a>
-                            <a href="https://assetrealcon.com/property/">SHOOT9BET</a>
-                            <a href="https://assetrealcon.com/property/">SIAPBET</a>
-                            <a href="https://assetrealcon.com/property/">SIBOLGA4D</a>
-                            <a href="https://assetrealcon.com/property/">SIHANOUKPOOLS</a>
-                            <a href="https://assetrealcon.com/property/">SIMASBOLA</a>
-                            <a href="https://assetrealcon.com/property/">SIMBOL4D</a>
-                            <a href="https://assetrealcon.com/property/">SINAR777</a>
-                            <a href="https://assetrealcon.com/property/">SINGA789</a>
-                            <a href="https://assetrealcon.com/property/">SINGASARITOTO</a>
-                            <a href="https://assetrealcon.com/property/">SINI4D</a>
-                            <a href="https://assetrealcon.com/property/">SINMABET</a>
-                            <a href="https://assetrealcon.com/property/">SINTOTO</a>
-                            <a href="https://assetrealcon.com/property/">SIPTOGEL</a>
-                            <a href="https://assetrealcon.com/property/">SIRAJAQQ</a>
-                            <a href="https://assetrealcon.com/property/">SIRENBOLA</a>
-                            <a href="https://assetrealcon.com/property/">SITUS123</a>
-                            <a href="https://assetrealcon.com/property/">SITUSGACOR99</a>
-                            <a href="https://assetrealcon.com/property/">SKYDEWA</a>
-                            <a href="https://assetrealcon.com/property/">SKYIDR303</a>
-                            <a href="https://assetrealcon.com/property/">SLOKI138</a>
+                            <a href="https://smc.justperfectbh.com/">PEDRO88</a>
+                            <a href="https://smc.justperfectbh.com/">BENDERA88</a>
+                            <a href="https://smc.justperfectbh.com/">CROT606</a>
+                            <a href="https://smc.justperfectbh.com/">PENGKOR33</a>
+                            <a href="https://smc.justperfectbh.com/">LIGALEXUS</a>
+                            <a href="https://smc.justperfectbh.com/">IKUT4D</a>
+                            <a href="https://smc.justperfectbh.com/">BWB88</a>
+                            <a href="https://smc.justperfectbh.com/">PUSAT404</a>
+                            <a href="https://smc.justperfectbh.com/">RAJAJP44</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA2880</a>
+                            <a href="https://smc.justperfectbh.com/">LENGKATOTO</a>
+                            <a href="https://smc.justperfectbh.com/">23NAGA</a>
+                            <a href="https://smc.justperfectbh.com/">RAJABET789</a>
+                            <a href="https://smc.justperfectbh.com/">NAGASLOT777</a>
+                            <a href="https://smc.justperfectbh.com/">MAGNUM188</a>
+                            <a href="https://smc.justperfectbh.com/">DELTA575</a>
+                            <a href="https://smc.justperfectbh.com/">LIVE123</a>
+                            <a href="https://smc.justperfectbh.com/">PASTITOTO</a>
+                            <a href="https://smc.justperfectbh.com/">HONDA787</a>
+                            <a href="https://smc.justperfectbh.com/">LOGO303</a>
+                            <a href="https://smc.justperfectbh.com/">PINTUPLAY</a>
+                            <a href="https://smc.justperfectbh.com/">NOVA126</a>
+                            <a href="https://smc.justperfectbh.com/">BANJIR69</a>
+                            <a href="https://smc.justperfectbh.com/">HOKI126</a>
+                            <a href="https://smc.justperfectbh.com/">KIU77</a>
+                            <a href="https://smc.justperfectbh.com/">CENTIL11</a>
+                            <a href="https://smc.justperfectbh.com/">SIMENANG</a>
+                            <a href="https://smc.justperfectbh.com/">JANGKAR55</a>
+                            <a href="https://smc.justperfectbh.com/">GPXSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">BDTOTO21</a>
+                            <a href="https://smc.justperfectbh.com/">GOMAX43</a>
+                            <a href="https://smc.justperfectbh.com/">BOLA389</a>
+                            <a href="https://smc.justperfectbh.com/">LEDAK505</a>
+                            <a href="https://smc.justperfectbh.com/">BADAH606</a>
+                            <a href="https://smc.justperfectbh.com/">MARANSI66</a>
+                            <a href="https://smc.justperfectbh.com/">JOKER115</a>
+                            <a href="https://smc.justperfectbh.com/">GBK808</a>
+                            <a href="https://smc.justperfectbh.com/">MATA62</a>
+                            <a href="https://smc.justperfectbh.com/">CUAN65</a>
+                            <a href="https://smc.justperfectbh.com/">KUYCUAN65</a>
+                            <a href="https://smc.justperfectbh.com/">MUTIARABET66</a>
+                            <a href="https://smc.justperfectbh.com/">SGC172</a>
+                            <a href="https://smc.justperfectbh.com/">HSWIN55</a>
+                            <a href="https://smc.justperfectbh.com/">GUCI606</a>
+                            <a href="https://smc.justperfectbh.com/">PANDAWA46</a>
+                            <a href="https://smc.justperfectbh.com/">CANDU404</a>
+                            <a href="https://smc.justperfectbh.com/">PUTRISPIN</a>
+                            <a href="https://smc.justperfectbh.com/">JAPAN43</a>
+                            <a href="https://smc.justperfectbh.com/">MUDA91</a>
+                            <a href="https://smc.justperfectbh.com/">KOKO110</a>
+                            <a href="https://smc.justperfectbh.com/">SULTAN12</a>
+                            <a href="https://smc.justperfectbh.com/">DOKTERJP89</a>
+                            <a href="https://smc.justperfectbh.com/">TULAWA32</a>
+                            <a href="https://smc.justperfectbh.com/">ACEMAX39</a>
+                            <a href="https://smc.justperfectbh.com/">MACAN54</a>
+                            <a href="https://smc.justperfectbh.com/">PANEN14</a>
+                            <a href="https://smc.justperfectbh.com/">KOY606</a>
+                            <a href="https://smc.justperfectbh.com/">DONASIBET</a>
+                            <a href="https://smc.justperfectbh.com/">BANSOSBET</a>
+                            <a href="https://smc.justperfectbh.com/">DEWASLOT389</a>
+                            <a href="https://smc.justperfectbh.com/">SAR288</a>
+                            <a href="https://smc.justperfectbh.com/">POLAJP29</a>
+                            <a href="https://smc.justperfectbh.com/">MASTER47</a>
+                            <a href="https://smc.justperfectbh.com/">TIANG43</a>
+                            <a href="https://smc.justperfectbh.com/">PANDA34</a>
+                            <a href="https://smc.justperfectbh.com/">SUKABET78</a>
+                            <a href="https://smc.justperfectbh.com/">QTR606</a>
+                            <a href="https://smc.justperfectbh.com/">EBAK110</a>
+                            <a href="https://smc.justperfectbh.com/">PANCI65</a>
+                            <a href="https://smc.justperfectbh.com/">STARJACPOT189</a>
+                            <a href="https://smc.justperfectbh.com/">JOS56</a>
+                            <a href="https://smc.justperfectbh.com/">UGPRO</a>
+                            <a href="https://smc.justperfectbh.com/">SUYAK606</a>
+                            <a href="https://smc.justperfectbh.com/">MELATIBET55</a>
+                            <a href="https://smc.justperfectbh.com/">MAROKO44</a>
+                            <a href="https://smc.justperfectbh.com/">PUING110</a>
+                            <a href="https://smc.justperfectbh.com/">PETIR56</a>
+                            <a href="https://smc.justperfectbh.com/">GPX909</a>
+                            <a href="https://smc.justperfectbh.com/">WD97PRO</a>
+                            <a href="https://smc.justperfectbh.com/">RATU125</a>
+                            <a href="https://smc.justperfectbh.com/">PLNGACOR535</a>
+                            <a href="https://smc.justperfectbh.com/">JEUS345</a>
+                            <a href="https://smc.justperfectbh.com/">CABE777</a>
+                            <a href="https://smc.justperfectbh.com/">SURYA72</a>
+                            <a href="https://smc.justperfectbh.com/">DELICUAN</a>
+                            <a href="https://smc.justperfectbh.com/">TURBO43</a>
+                            <a href="https://smc.justperfectbh.com/">SPIN110</a>
+                            <a href="https://smc.justperfectbh.com/">PUMA56</a>
+                            <a href="https://smc.justperfectbh.com/">RANS60</a>
+                            <a href="https://smc.justperfectbh.com/">PASANG23</a>
+                            <a href="https://smc.justperfectbh.com/">KUY81</a>
+                            <a href="https://smc.justperfectbh.com/">GAT43</a>
+                            <a href="https://smc.justperfectbh.com/">INDO55WIN</a>
+                            <a href="https://smc.justperfectbh.com/">MANTIS22</a>
+                            <a href="https://smc.justperfectbh.com/">TOKYO404</a>
+                            <a href="https://smc.justperfectbh.com/">PERAN56</a>
+                            <a href="https://smc.justperfectbh.com/">PROMAX82</a>
+                            <a href="https://smc.justperfectbh.com/">NITAMA33</a>
+                            <a href="https://smc.justperfectbh.com/">KANDA75</a>
+                            <a href="https://smc.justperfectbh.com/">MOSES78</a>
+                            <a href="https://smc.justperfectbh.com/">OKE110</a>
+                            <a href="https://smc.justperfectbh.com/">AIABET365</a>
+                            <a href="https://smc.justperfectbh.com/">KAGE55</a>
+                            <a href="https://smc.justperfectbh.com/">PAUS46</a>
+                            <a href="https://smc.justperfectbh.com/">WSO606</a>
+                            <a href="https://smc.justperfectbh.com/">LUX110</a>
+                            <a href="https://smc.justperfectbh.com/">KILEK66</a>
+                            <a href="https://smc.justperfectbh.com/">TERJPJ606</a>
+                            <a href="https://smc.justperfectbh.com/">CINA14</a>
+                            <a href="https://smc.justperfectbh.com/">GARAM91</a>
+                            <a href="https://smc.justperfectbh.com/">DOKTERJP55</a>
+                            <a href="https://smc.justperfectbh.com/">DAUNJP33</a>
+                            <a href="https://smc.justperfectbh.com/">SAKURA63</a>
+                            <a href="https://smc.justperfectbh.com/">SOYA54</a>
+                            <a href="https://smc.justperfectbh.com/">JPSLOT88</a>
+                            <a href="https://smc.justperfectbh.com/">KRISTAL43</a>
+                            <a href="https://smc.justperfectbh.com/">POLACUAN188</a>
+                            <a href="https://smc.justperfectbh.com/">ARENAJAYA</a>
+                            <a href="https://smc.justperfectbh.com/">RANS110</a>
+                            <a href="https://smc.justperfectbh.com/">KAWE73</a>
+                            <a href="https://smc.justperfectbh.com/">RAWANG110</a>
+                            <a href="https://smc.justperfectbh.com/">TIGER14</a>
+                            <a href="https://smc.justperfectbh.com/">PUYU606</a>
+                            <a href="https://smc.justperfectbh.com/">KANDA56</a>
+                            <a href="https://smc.justperfectbh.com/">PUMA110</a>
+                            <a href="https://smc.justperfectbh.com/">TEKO606</a>
+                            <a href="https://smc.justperfectbh.com/">SURYA23</a>
+                            <a href="https://smc.justperfectbh.com/">PUSH45</a>
+                            <a href="https://smc.justperfectbh.com/">PROWIN66</a>
+                            <a href="https://smc.justperfectbh.com/">VCS606</a>
+                            <a href="https://smc.justperfectbh.com/">JP707</a>
+                            <a href="https://smc.justperfectbh.com/">DEWASPIN60</a>
+                            <a href="https://smc.justperfectbh.com/">JOIN32</a>
+                            <a href="https://smc.justperfectbh.com/">PALU23</a>
+                            <a href="https://smc.justperfectbh.com/">MAYOBET189</a>
+                            <a href="https://smc.justperfectbh.com/">MAMAJP48</a>
+                            <a href="https://smc.justperfectbh.com/">SAGAN43</a>
+                            <a href="https://smc.justperfectbh.com/">TOKOWIN189</a>
+                            <a href="https://smc.justperfectbh.com/">NOS79</a>
+                            <a href="https://smc.justperfectbh.com/">JAM37</a>
+                            <a href="https://smc.justperfectbh.com/">APIJP35</a>
+                            <a href="https://smc.justperfectbh.com/">BRO45</a>
+                            <a href="https://smc.justperfectbh.com/">JNT606</a>
+                            <a href="https://smc.justperfectbh.com/">TURKEY64</a>
+                            <a href="https://smc.justperfectbh.com/">LIGATOP55</a>
+                            <a href="https://smc.justperfectbh.com/">GAYA157</a>
+                            <a href="https://smc.justperfectbh.com/">QG909</a>
+                            <a href="https://smc.justperfectbh.com/">LORENA44</a>
+                            <a href="https://smc.justperfectbh.com/">ADO75</a>
+                            <a href="https://smc.justperfectbh.com/">NAGAPLAY23</a>
+                            <a href="https://smc.justperfectbh.com/">SUHU79</a>
+                            <a href="https://smc.justperfectbh.com/">CINA23</a>
+                            <a href="https://smc.justperfectbh.com/">RAWIT14</a>
+                            <a href="https://smc.justperfectbh.com/">ULTRA43</a>
+                            <a href="https://smc.justperfectbh.com/">SUKO606</a>
+                            <a href="https://smc.justperfectbh.com/">EMAS32</a>
+                            <a href="https://smc.justperfectbh.com/">KINGBET122</a>
+                            <a href="https://smc.justperfectbh.com/">RAJAWALI45</a>
+                            <a href="https://smc.justperfectbh.com/">KAYU43</a>
+                            <a href="https://smc.justperfectbh.com/">MACAN43</a>
+                            <a href="https://smc.justperfectbh.com/">MASTER63</a>
+                            <a href="https://smc.justperfectbh.com/">TEKO777</a>
+                            <a href="https://smc.justperfectbh.com/">JAGO78</a>
+                            <a href="https://smc.justperfectbh.com/">DUKUN404</a>
+                            <a href="https://smc.justperfectbh.com/">KOKOMAX66</a>
+                            <a href="https://smc.justperfectbh.com/">GENDIS369</a>
+                            <a href="https://smc.justperfectbh.com/">OPA89</a>
+                            <a href="https://smc.justperfectbh.com/">CUAN14</a>
+                            <a href="https://smc.justperfectbh.com/">MAFIA14</a>
+                            <a href="https://smc.justperfectbh.com/">BONEKA110</a>
+                            <a href="https://smc.justperfectbh.com/">DOTASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">SARUNET</a>
+                            <a href="https://smc.justperfectbh.com/">JANDA789</a>
+                            <a href="https://smc.justperfectbh.com/">TOTOSOFT33</a>
+                            <a href="https://smc.justperfectbh.com/">SKA110</a>
+                            <a href="https://smc.justperfectbh.com/">KAPTENWIN</a>
+                            <a href="https://smc.justperfectbh.com/">SUKSES86</a>
+                            <a href="https://smc.justperfectbh.com/">JAZZY54</a>
+                            <a href="https://smc.justperfectbh.com/">CORDOBA99</a>
+                            <a href="https://smc.justperfectbh.com/">KUAT388</a>
+                            <a href="https://smc.justperfectbh.com/">ZAX110</a>
+                            <a href="https://smc.justperfectbh.com/">YOYO56</a>
+                            <a href="https://smc.justperfectbh.com/">MEGABOS78</a>
+                            <a href="https://smc.justperfectbh.com/">BAKWAN606</a>
+                            <a href="https://smc.justperfectbh.com/">MERAK23</a>
+                            <a href="https://smc.justperfectbh.com/">PACE606</a>
+                            <a href="https://smc.justperfectbh.com/">QG951</a>
+                            <a href="https://smc.justperfectbh.com/">BRO54</a>
+                            <a href="https://smc.justperfectbh.com/">NINJA404</a>
+                            <a href="https://smc.justperfectbh.com/">RUMI48</a>
+                            <a href="https://smc.justperfectbh.com/">SMAR46</a>
+                            <a href="https://smc.justperfectbh.com/">TUM55</a>
+                            <a href="https://smc.justperfectbh.com/">PUMA03</a>
+                            <a href="https://smc.justperfectbh.com/">RAJA110</a>
+                            <a href="https://smc.justperfectbh.com/">FIESTA38</a>
+                            <a href="https://smc.justperfectbh.com/">KOMET157</a>
+                            <a href="https://smc.justperfectbh.com/">PAUS64</a>
+                            <a href="https://smc.justperfectbh.com/">BAKA43</a>
+                            <a href="https://smc.justperfectbh.com/">VIK66</a>
+                            <a href="https://smc.justperfectbh.com/">WALET23</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA38</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA897</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA8855</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA857</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA3880</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA689</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA688</a>
+                            <a href="https://smc.justperfectbh.com/">TRISAKTI388</a>
+                            <a href="https://smc.justperfectbh.com/">TRISAKTI988</a>
+                            <a href="https://smc.justperfectbh.com/">TRISAKTI788</a>
+                            <a href="https://smc.justperfectbh.com/">TRISAKTI889</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA18811</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA388</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA887</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA889</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA8989</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA988</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA881</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA2880</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA588</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA888</a>
+                            <a href="https://smc.justperfectbh.com/">ARISTA882</a>
+                            <a href="https://smc.justperfectbh.com/">ZODIAK98</a>
+                            <a href="https://smc.justperfectbh.com/">SPECIALWIN123</a>
+                            <a href="https://smc.justperfectbh.com/">JENIUSWIN</a>
+                            <a href="https://smc.justperfectbh.com/">TARIANJP78</a>
+                            <a href="https://smc.justperfectbh.com/">PUTRAZEUS11</a>
+                            <a href="https://smc.justperfectbh.com/">MERAH23</a>
+                            <a href="https://smc.justperfectbh.com/">LOGINJP</a>
+                            <a href="https://smc.justperfectbh.com/">AGENKOIN67</a>
+                            <a href="https://smc.justperfectbh.com/">HAKIM98</a>
+                            <a href="https://smc.justperfectbh.com/">MAGIC92</a>
+                            <a href="https://smc.justperfectbh.com/">MANIS456</a>
+                            <a href="https://smc.justperfectbh.com/">HONDAWD11</a>
+                            <a href="https://smc.justperfectbh.com/">MONAS89</a>
+                            <a href="https://smc.justperfectbh.com/">HUGO56</a>
+                            <a href="https://smc.justperfectbh.com/">SAKTICAIR11</a>
+                            <a href="https://smc.justperfectbh.com/">GATOT83</a>
+                            <a href="https://smc.justperfectbh.com/">KASIRQQ</a>
+                            <a href="https://smc.justperfectbh.com/">LANGIT59</a>
+                            <a href="https://smc.justperfectbh.com/">PRADA78</a>
+                            <a href="https://smc.justperfectbh.com/">MERAPI45</a>
+                            <a href="https://smc.justperfectbh.com/">KERIS98</a>
+                            <a href="https://smc.justperfectbh.com/">TEMPUR45</a>
+                            <a href="https://smc.justperfectbh.com/">CERIAWIN</a>
+                            <a href="https://smc.justperfectbh.com/">PADEL89</a>
+                            <a href="https://smc.justperfectbh.com/">PISCES86</a>
+                            <a href="https://smc.justperfectbh.com/">DADU56</a>
+                            <a href="https://smc.justperfectbh.com/">RUBEN33</a>
+                            <a href="https://smc.justperfectbh.com/">CUKONGBET</a>
+                            <a href="https://smc.justperfectbh.com/">CUKONGBET88</a>
+                            <a href="https://smc.justperfectbh.com/">EXCELLBET</a>
+                            <a href="https://smc.justperfectbh.com/">GEDEBET</a>
+                            <a href="https://smc.justperfectbh.com/">JINPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">JITU189</a>
+                            <a href="https://smc.justperfectbh.com/">JITUSLOT88</a>
+                            <a href="https://smc.justperfectbh.com/">JJ66SLOT</a>
+                            <a href="https://smc.justperfectbh.com/">JOGERBET</a>
+                            <a href="https://smc.justperfectbh.com/">JOINTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">JOKER505</a>
+                            <a href="https://smc.justperfectbh.com/">JOKERBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">JOKI123</a>
+                            <a href="https://smc.justperfectbh.com/">JON303</a>
+                            <a href="https://smc.justperfectbh.com/">JOS889</a>
+                            <a href="https://smc.justperfectbh.com/">JOSPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">JOSTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">JOYO123</a>
+                            <a href="https://smc.justperfectbh.com/">JPJOKER123</a>
+                            <a href="https://smc.justperfectbh.com/">JPROYAL</a>
+                            <a href="https://smc.justperfectbh.com/">JUALV88</a>
+                            <a href="https://smc.justperfectbh.com/">JUARA303</a>
+                            <a href="https://smc.justperfectbh.com/">JUARA911</a>
+                            <a href="https://smc.justperfectbh.com/">JUARABETTING</a>
+                            <a href="https://smc.justperfectbh.com/">JUDI303</a>
+                            <a href="https://smc.justperfectbh.com/">JUDIANGKA</a>
+                            <a href="https://smc.justperfectbh.com/">JUDIDADU88</a>
+                            <a href="https://smc.justperfectbh.com/">JUDILIVE</a>
+                            <a href="https://smc.justperfectbh.com/">JUDIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">JUNIORTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">JURAGAN99BET</a>
+                            <a href="https://smc.justperfectbh.com/">JURAGANJUDI</a>
+                            <a href="https://smc.justperfectbh.com/">JURAGANTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">JURAGANTOTO2</a>
+                            <a href="https://smc.justperfectbh.com/">JUTASLOT88</a>
+                            <a href="https://smc.justperfectbh.com/">JUTAWAN138</a>
+                            <a href="https://smc.justperfectbh.com/">JUVEPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">JVB303</a>
+                            <a href="https://smc.justperfectbh.com/">JVB88</a>
+                            <a href="https://smc.justperfectbh.com/">JW8</a>
+                            <a href="https://smc.justperfectbh.com/">K7BOLA</a>
+                            <a href="https://smc.justperfectbh.com/">KAISARGAMING</a>
+                            <a href="https://smc.justperfectbh.com/">KAISARPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KAKEK123</a>
+                            <a href="https://smc.justperfectbh.com/">KAKEK77</a>
+                            <a href="https://smc.justperfectbh.com/">KALTIMTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">KAMBING2</a>
+                            <a href="https://smc.justperfectbh.com/">KAMBOJA4D</a>
+                            <a href="https://smc.justperfectbh.com/">KAMPUNGBOLA99</a>
+                            <a href="https://smc.justperfectbh.com/">KAMUS77</a>
+                            <a href="https://smc.justperfectbh.com/">KANCILBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">KANGENPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KAPAK123</a>
+                            <a href="https://smc.justperfectbh.com/">KAPAK4D</a>
+                            <a href="https://smc.justperfectbh.com/">KAPALSLOT777</a>
+                            <a href="https://smc.justperfectbh.com/">KAPTENPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KARTUGOL</a>
+                            <a href="https://smc.justperfectbh.com/">KARTUJITU</a>
+                            <a href="https://smc.justperfectbh.com/">KARTURAJA</a>
+                            <a href="https://smc.justperfectbh.com/">KARTUREMI</a>
+                            <a href="https://smc.justperfectbh.com/">KARYA123</a>
+                            <a href="https://smc.justperfectbh.com/">KASIR333</a>
+                            <a href="https://smc.justperfectbh.com/">KASIRJUDI</a>
+                            <a href="https://smc.justperfectbh.com/">KASPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KASWARI77</a>
+                            <a href="https://smc.justperfectbh.com/">KAWAN123</a>
+                            <a href="https://smc.justperfectbh.com/">KAWI4D</a>
+                            <a href="https://smc.justperfectbh.com/">KAYUEMAS88</a>
+                            <a href="https://smc.justperfectbh.com/">KBO77</a>
+                            <a href="https://smc.justperfectbh.com/">KDPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KDVIDEOBETTING</a>
+                            <a href="https://smc.justperfectbh.com/">KECE88</a>
+                            <a href="https://smc.justperfectbh.com/">KEDAI303</a>
+                            <a href="https://smc.justperfectbh.com/">KEDAICASINO</a>
+                            <a href="https://smc.justperfectbh.com/">KEDAIGAME</a>
+                            <a href="https://smc.justperfectbh.com/">KEITOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">KEJARSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">KEJORASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">KEJORATOTO</a>
+                            <a href="https://smc.justperfectbh.com/">KELINCINAKAL</a>
+                            <a href="https://smc.justperfectbh.com/">KELUARGASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">KEMBANG123</a>
+                            <a href="https://smc.justperfectbh.com/">KEMBARBET</a>
+                            <a href="https://smc.justperfectbh.com/">KENAROK4D</a>
+                            <a href="https://smc.justperfectbh.com/">KENCANA4D</a>
+                            <a href="https://smc.justperfectbh.com/">KERAJAANPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KETUA188</a>
+                            <a href="https://smc.justperfectbh.com/">KETUAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KHASBET</a>
+                            <a href="https://smc.justperfectbh.com/">KHUSUSTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">KIASLOT2</a>
+                            <a href="https://smc.justperfectbh.com/">KIET123</a>
+                            <a href="https://smc.justperfectbh.com/">KIJANG4D</a>
+                            <a href="https://smc.justperfectbh.com/">KILAU88</a>
+                            <a href="https://smc.justperfectbh.com/">KIMPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KINCIR86</a>
+                            <a href="https://smc.justperfectbh.com/">KING99TOTO</a>
+                            <a href="https://smc.justperfectbh.com/">KINGBET303</a>
+                            <a href="https://smc.justperfectbh.com/">KINGDOM357</a>
+                            <a href="https://smc.justperfectbh.com/">KINGPOK</a>
+                            <a href="https://smc.justperfectbh.com/">KINGSPORTS99</a>
+                            <a href="https://smc.justperfectbh.com/">KINGSTAR999</a>
+                            <a href="https://smc.justperfectbh.com/">KIOSBET</a>
+                            <a href="https://smc.justperfectbh.com/">KISS138</a>
+                            <a href="https://smc.justperfectbh.com/">KITAWIN</a>
+                            <a href="https://smc.justperfectbh.com/">KITKAT77</a>
+                            <a href="https://smc.justperfectbh.com/">KKTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">KLIK138</a>
+                            <a href="https://smc.justperfectbh.com/">KLIKCEME</a>
+                            <a href="https://smc.justperfectbh.com/">KLUBSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">KLUBVEGAS</a>
+                            <a href="https://smc.justperfectbh.com/">KOBOI88</a>
+                            <a href="https://smc.justperfectbh.com/">KOCOK303</a>
+                            <a href="https://smc.justperfectbh.com/">KODEALAM</a>
+                            <a href="https://smc.justperfectbh.com/">KODEALAM2</a>
+                            <a href="https://smc.justperfectbh.com/">KODEHOKI</a>
+                            <a href="https://smc.justperfectbh.com/">KODEJITU</a>
+                            <a href="https://smc.justperfectbh.com/">KODEMIMPI</a>
+                            <a href="https://smc.justperfectbh.com/">KOIDOMINO</a>
+                            <a href="https://smc.justperfectbh.com/">KOINBETS</a>
+                            <a href="https://smc.justperfectbh.com/">KOINPOKERS</a>
+                            <a href="https://smc.justperfectbh.com/">KOMANDOPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KOMIKSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">KOMPASTVPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KOPIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KOPLO88</a>
+                            <a href="https://smc.justperfectbh.com/">KOTAJACKPOT</a>
+                            <a href="https://smc.justperfectbh.com/">KRONOSPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">KRUCIL4D</a>
+                            <a href="https://smc.justperfectbh.com/">KRUCILBET</a>
+                            <a href="https://smc.justperfectbh.com/">KUDA66</a>
+                            <a href="https://smc.justperfectbh.com/">KUNCI138</a>
+                            <a href="https://smc.justperfectbh.com/">KUNCI4D</a>
+                            <a href="https://smc.justperfectbh.com/">KUNGFU4D</a>
+                            <a href="https://smc.justperfectbh.com/">KUNGFU4D2</a>
+                            <a href="https://smc.justperfectbh.com/">KUPONTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">KUTASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">KUYABET</a>
+                            <a href="https://smc.justperfectbh.com/">LABUHANSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">LAGA4D</a>
+                            <a href="https://smc.justperfectbh.com/">LAGAWIN</a>
+                            <a href="https://smc.justperfectbh.com/">LAGIBET</a>
+                            <a href="https://smc.justperfectbh.com/">LAJU138</a>
+                            <a href="https://smc.justperfectbh.com/">LAJUPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">LAKIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">LALIGA188</a>
+                            <a href="https://smc.justperfectbh.com/">LAMBE168</a>
+                            <a href="https://smc.justperfectbh.com/">LAMBOBET88</a>
+                            <a href="https://smc.justperfectbh.com/">LAPAKTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">LATAR88</a>
+                            <a href="https://smc.justperfectbh.com/">LAUTPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">LAYARTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">LEGENDA77</a>
+                            <a href="https://smc.justperfectbh.com/">LENSASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">LETSBET303</a>
+                            <a href="https://smc.justperfectbh.com/">LEXISPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">LEXUSBET</a>
+                            <a href="https://smc.justperfectbh.com/">LEXUSPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">LIDEWA88</a>
+                            <a href="https://smc.justperfectbh.com/">LIGA158</a>
+                            <a href="https://smc.justperfectbh.com/">LIGA338</a>
+                            <a href="https://smc.justperfectbh.com/">LIGABET138</a>
+                            <a href="https://smc.justperfectbh.com/">LIGAPULSA</a>
+                            <a href="https://smc.justperfectbh.com/">LIGASLOT88</a>
+                            <a href="https://smc.justperfectbh.com/">LIMASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">LINEPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">LINESPORT88</a>
+                            <a href="https://smc.justperfectbh.com/">LINGTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">LINUXTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">LIONGTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">LIVEKLIK77</a>
+                            <a href="https://smc.justperfectbh.com/">LIVINTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">LOKASI123</a>
+                            <a href="https://smc.justperfectbh.com/">LONDONPOOLS</a>
+                            <a href="https://smc.justperfectbh.com/">LOTTO02</a>
+                            <a href="https://smc.justperfectbh.com/">LOTUS4D</a>
+                            <a href="https://smc.justperfectbh.com/">LUCINTAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">LUCK365</a>
+                            <a href="https://smc.justperfectbh.com/">LUCKYBET89</a>
+                            <a href="https://smc.justperfectbh.com/">LUCKYCASH999</a>
+                            <a href="https://smc.justperfectbh.com/">LUCKYGOKKEN</a>
+                            <a href="https://smc.justperfectbh.com/">LUMBUNGTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">LUXURY918</a>
+                            <a href="https://smc.justperfectbh.com/">LXPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">M288QQ</a>
+                            <a href="https://smc.justperfectbh.com/">M303</a>
+                            <a href="https://smc.justperfectbh.com/">M77CASINO</a>
+                            <a href="https://smc.justperfectbh.com/">MABOKJUDI</a>
+                            <a href="https://smc.justperfectbh.com/">MABUKBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">MACAN19</a>
+                            <a href="https://smc.justperfectbh.com/">MACAOBO</a>
+                            <a href="https://smc.justperfectbh.com/">MACAOSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">MACAUBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">MACAUINDO</a>
+                            <a href="https://smc.justperfectbh.com/">MACAUPOKER99</a>
+                            <a href="https://smc.justperfectbh.com/">MAGISTERSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">MAGNET138</a>
+                            <a href="https://smc.justperfectbh.com/">MAGNUM777</a>
+                            <a href="https://smc.justperfectbh.com/">MAHA123</a>
+                            <a href="https://smc.justperfectbh.com/">MAHKOTA4D</a>
+                            <a href="https://smc.justperfectbh.com/">MAHKOTA999</a>
+                            <a href="https://smc.justperfectbh.com/">MAHKOTAPANDAWA</a>
+                            <a href="https://smc.justperfectbh.com/">MAINBOLATERUS</a>
+                            <a href="https://smc.justperfectbh.com/">MAINGUNDU</a>
+                            <a href="https://smc.justperfectbh.com/">MAJU123</a>
+                            <a href="https://smc.justperfectbh.com/">MAMEN77</a>
+                            <a href="https://smc.justperfectbh.com/">MAMITOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">MAMPIR123</a>
+                            <a href="https://smc.justperfectbh.com/">MANATOTO</a>
+                            <a href="https://smc.justperfectbh.com/">MANDIRI88</a>
+                            <a href="https://smc.justperfectbh.com/">MANDIRIBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">MANGGADUABET</a>
+                            <a href="https://smc.justperfectbh.com/">MANIAK123</a>
+                            <a href="https://smc.justperfectbh.com/">MANTAPBOS</a>
+                            <a href="https://smc.justperfectbh.com/">MAPSTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">MARIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">MARKASCASINO</a>
+                            <a href="https://smc.justperfectbh.com/">MARKASPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">MARVEL4D</a>
+                            <a href="https://smc.justperfectbh.com/">MASTERBAT99</a>
+                            <a href="https://smc.justperfectbh.com/">MASTERBET111</a>
+                            <a href="https://smc.justperfectbh.com/">MASTERBETTING88</a>
+                            <a href="https://smc.justperfectbh.com/">MATRIX855</a>
+                            <a href="https://smc.justperfectbh.com/">MAUPOKER99</a>
+                            <a href="https://smc.justperfectbh.com/">MAWAR4D</a>
+                            <a href="https://smc.justperfectbh.com/">MAXBET303</a>
+                            <a href="https://smc.justperfectbh.com/">MAXPRO88</a>
+                            <a href="https://smc.justperfectbh.com/">MAXWIN303</a>
+                            <a href="https://smc.justperfectbh.com/">MAYORBET</a>
+                            <a href="https://smc.justperfectbh.com/">MC88POKER</a>
+                            <a href="https://smc.justperfectbh.com/">MCDTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">MDNSPORT</a>
+                            <a href="https://smc.justperfectbh.com/">MEDANJUDI</a>
+                            <a href="https://smc.justperfectbh.com/">MEGAASIA89</a>
+                            <a href="https://smc.justperfectbh.com/">MEGAH123</a>
+                            <a href="https://smc.justperfectbh.com/">MEGAJUDI</a>
+                            <a href="https://smc.justperfectbh.com/">MEJA21</a>
+                            <a href="https://smc.justperfectbh.com/">MEKAR123</a>
+                            <a href="https://smc.justperfectbh.com/">MELATIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">MELAYUPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">MELODIBET</a>
+                            <a href="https://smc.justperfectbh.com/">MENANGSLOTS</a>
+                            <a href="https://smc.justperfectbh.com/">MENCARITOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">MENTARI77</a>
+                            <a href="https://smc.justperfectbh.com/">MERDEKAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">MERLIN188</a>
+                            <a href="https://smc.justperfectbh.com/">MESA4D</a>
+                            <a href="https://smc.justperfectbh.com/">MESINGG</a>
+                            <a href="https://smc.justperfectbh.com/">MESINSLOT5000</a>
+                            <a href="https://smc.justperfectbh.com/">METEOR4D</a>
+                            <a href="https://smc.justperfectbh.com/">MEWAHBET</a>
+                            <a href="https://smc.justperfectbh.com/">MEWAHTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">MILDCASINO</a>
+                            <a href="https://smc.justperfectbh.com/">MIMPIDEWA</a>
+                            <a href="https://smc.justperfectbh.com/">MINORSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">MISLOT</a>
+                            <a href="https://smc.justperfectbh.com/">MITOSPLAY</a>
+                            <a href="https://smc.justperfectbh.com/">MITRA188</a>
+                            <a href="https://smc.justperfectbh.com/">MIXSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">MIXTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">MOBATOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">MODAL88</a>
+                            <a href="https://smc.justperfectbh.com/">MOJEKPOT</a>
+                            <a href="https://smc.justperfectbh.com/">MOJOK88</a>
+                            <a href="https://smc.justperfectbh.com/">MOLESLOT</a>
+                            <a href="https://smc.justperfectbh.com/">MOMOPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">MONEYTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">MOON33</a>
+                            <a href="https://smc.justperfectbh.com/">MOONLIGHTBATAVIA</a>
+                            <a href="https://smc.justperfectbh.com/">MOTOBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">MOTOBOLAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">MOTOJUDI</a>
+                            <a href="https://smc.justperfectbh.com/">MPOHP</a>
+                            <a href="https://smc.justperfectbh.com/">MPOKER77</a>
+                            <a href="https://smc.justperfectbh.com/">MPONAGA88</a>
+                            <a href="https://smc.justperfectbh.com/">MPOWIN77</a>
+                            <a href="https://smc.justperfectbh.com/">MPOWL</a>
+                            <a href="https://smc.justperfectbh.com/">MSTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">MTOPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">MUJIZATTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">MUJUR123</a>
+                            <a href="https://smc.justperfectbh.com/">MUKABET88</a>
+                            <a href="https://smc.justperfectbh.com/">MULTISPORTS88</a>
+                            <a href="https://smc.justperfectbh.com/">MURAIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">MUSANG123</a>
+                            <a href="https://smc.justperfectbh.com/">MUSTIKAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">MXSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">MYBETT88</a>
+                            <a href="https://smc.justperfectbh.com/">MYDRAGONKU</a>
+                            <a href="https://smc.justperfectbh.com/">NADAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">NAGA505</a>
+                            <a href="https://smc.justperfectbh.com/">NAGAKARTU</a>
+                            <a href="https://smc.justperfectbh.com/">NAGASAON88</a>
+                            <a href="https://smc.justperfectbh.com/">NAGATOP</a>
+                            <a href="https://smc.justperfectbh.com/">NAGATOTO88</a>
+                            <a href="https://smc.justperfectbh.com/">NASAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">NAXPLAY</a>
+                            <a href="https://smc.justperfectbh.com/">NAXPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">NBCBET</a>
+                            <a href="https://smc.justperfectbh.com/">NEGARATOTO</a>
+                            <a href="https://smc.justperfectbh.com/">NEGO388</a>
+                            <a href="https://smc.justperfectbh.com/">NEGO4D</a>
+                            <a href="https://smc.justperfectbh.com/">NELAYANSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">NEPTUNETOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">NETPLAY88</a>
+                            <a href="https://smc.justperfectbh.com/">NETSLOT88</a>
+                            <a href="https://smc.justperfectbh.com/">NETTVPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">NETWIN88</a>
+                            <a href="https://smc.justperfectbh.com/">NEXSLOT828</a>
+                            <a href="https://smc.justperfectbh.com/">NGEBETBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">NIAGASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">NIBUNG4D</a>
+                            <a href="https://smc.justperfectbh.com/">NIKMATBET</a>
+                            <a href="https://smc.justperfectbh.com/">NINJACAPSA</a>
+                            <a href="https://smc.justperfectbh.com/">NINJASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">NITRO123</a>
+                            <a href="https://smc.justperfectbh.com/">NOGEL01</a>
+                            <a href="https://smc.justperfectbh.com/">NOMBOKTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">NOMOR303</a>
+                            <a href="https://smc.justperfectbh.com/">NONADEWA</a>
+                            <a href="https://smc.justperfectbh.com/">NONGKRONG138</a>
+                            <a href="https://smc.justperfectbh.com/">NOS89</a>
+                            <a href="https://smc.justperfectbh.com/">NSR17</a>
+                            <a href="https://smc.justperfectbh.com/">NTT4D</a>
+                            <a href="https://smc.justperfectbh.com/">NUANSATOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">NUSABOLA</a>
+                            <a href="https://smc.justperfectbh.com/">NUSAKASINO</a>
+                            <a href="https://smc.justperfectbh.com/">NUSANTARABET4D</a>
+                            <a href="https://smc.justperfectbh.com/">NUSASLOTS</a>
+                            <a href="https://smc.justperfectbh.com/">NUSAWIN88</a>
+                            <a href="https://smc.justperfectbh.com/">NYELOT88</a>
+                            <a href="https://smc.justperfectbh.com/">OFFICIALSBOBET</a>
+                            <a href="https://smc.justperfectbh.com/">OG191</a>
+                            <a href="https://smc.justperfectbh.com/">OGLOK</a>
+                            <a href="https://smc.justperfectbh.com/">OLINGAMES</a>
+                            <a href="https://smc.justperfectbh.com/">OMESLOT</a>
+                            <a href="https://smc.justperfectbh.com/">OMETOTO</a>
+                            <a href="https://smc.justperfectbh.com/">OMJOKER</a>
+                            <a href="https://smc.justperfectbh.com/">ONGKASINO</a>
+                            <a href="https://smc.justperfectbh.com/">ORANGE777</a>
+                            <a href="https://smc.justperfectbh.com/">ORDO88</a>
+                            <a href="https://smc.justperfectbh.com/">ORITOTO</a>
+                            <a href="https://smc.justperfectbh.com/">OSAKAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">OSB369</a>
+                            <a href="https://smc.justperfectbh.com/">OSCARPLAY</a>
+                            <a href="https://smc.justperfectbh.com/">OSG168</a>
+                            <a href="https://smc.justperfectbh.com/">OSG777</a>
+                            <a href="https://smc.justperfectbh.com/">OSGCASINO</a>
+                            <a href="https://smc.justperfectbh.com/">OVO4D</a>
+                            <a href="https://smc.justperfectbh.com/">OVO99SPORTS</a>
+                            <a href="https://smc.justperfectbh.com/">OVOTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">PADANGPLAY</a>
+                            <a href="https://smc.justperfectbh.com/">PADI123</a>
+                            <a href="https://smc.justperfectbh.com/">PAJAKPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PAKARBET88</a>
+                            <a href="https://smc.justperfectbh.com/">PALACE4D</a>
+                            <a href="https://smc.justperfectbh.com/">PALUGADABET</a>
+                            <a href="https://smc.justperfectbh.com/">PANDA202</a>
+                            <a href="https://smc.justperfectbh.com/">PANDAWAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PANDORA69</a>
+                            <a href="https://smc.justperfectbh.com/">PANENPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PANGERANTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">PAPA4D</a>
+                            <a href="https://smc.justperfectbh.com/">PAPADOMINO</a>
+                            <a href="https://smc.justperfectbh.com/">PAPAVENUS</a>
+                            <a href="https://smc.justperfectbh.com/">PAPIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PARLAY365</a>
+                            <a href="https://smc.justperfectbh.com/">PARTAI118</a>
+                            <a href="https://smc.justperfectbh.com/">PASANG4D</a>
+                            <a href="https://smc.justperfectbh.com/">PASANGNOMOR</a>
+                            <a href="https://smc.justperfectbh.com/">PASARANTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">PASCOL88</a>
+                            <a href="https://smc.justperfectbh.com/">PASPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PASTI123</a>
+                            <a href="https://smc.justperfectbh.com/">PASTIJP</a>
+                            <a href="https://smc.justperfectbh.com/">PASTIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PASTITOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">PASUKANJP</a>
+                            <a href="https://smc.justperfectbh.com/">PATEN123</a>
+                            <a href="https://smc.justperfectbh.com/">PAUSPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PAUSTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">PAW303</a>
+                            <a href="https://smc.justperfectbh.com/">PAWANG168</a>
+                            <a href="https://smc.justperfectbh.com/">PAYPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PBOWIN</a>
+                            <a href="https://smc.justperfectbh.com/">PDIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PECAHBET</a>
+                            <a href="https://smc.justperfectbh.com/">PELAKORTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">PELITASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">PEMAIN168</a>
+                            <a href="https://smc.justperfectbh.com/">PEMAIN777</a>
+                            <a href="https://smc.justperfectbh.com/">PENCETAKGOL</a>
+                            <a href="https://smc.justperfectbh.com/">PENTOLAN88</a>
+                            <a href="https://smc.justperfectbh.com/">PERANGBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">PERIQQ</a>
+                            <a href="https://smc.justperfectbh.com/">PERISAIBET</a>
+                            <a href="https://smc.justperfectbh.com/">PERISAITOTO</a>
+                            <a href="https://smc.justperfectbh.com/">PESTA123</a>
+                            <a href="https://smc.justperfectbh.com/">PETANIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PETARUNGSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">PETIK88</a>
+                            <a href="https://smc.justperfectbh.com/">PETRUKSPORT</a>
+                            <a href="https://smc.justperfectbh.com/">PGBET1JT</a>
+                            <a href="https://smc.justperfectbh.com/">PGMAXBET</a>
+                            <a href="https://smc.justperfectbh.com/">PIALA123</a>
+                            <a href="https://smc.justperfectbh.com/">PIALASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">PIONPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">PIPO88</a>
+                            <a href="https://smc.justperfectbh.com/">PISTOL123</a>
+                            <a href="https://smc.justperfectbh.com/">PITBULL777</a>
+                            <a href="https://smc.justperfectbh.com/">PK1SPORTS</a>
+                            <a href="https://smc.justperfectbh.com/">PLANET88</a>
+                            <a href="https://smc.justperfectbh.com/">PLAY365</a>
+                            <a href="https://smc.justperfectbh.com/">PLAYQQ</a>
+                            <a href="https://smc.justperfectbh.com/">PLAYSLOT123</a>
+                            <a href="https://smc.justperfectbh.com/">PLAYSLOTS88</a>
+                            <a href="https://smc.justperfectbh.com/">PLAYVIPBET88</a>
+                            <a href="https://smc.justperfectbh.com/">POHON138</a>
+                            <a href="https://smc.justperfectbh.com/">POINTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">POKER1001</a>
+                            <a href="https://smc.justperfectbh.com/">POKER1ONE</a>
+                            <a href="https://smc.justperfectbh.com/">POKER225</a>
+                            <a href="https://smc.justperfectbh.com/">POKER357</a>
+                            <a href="https://smc.justperfectbh.com/">POKER383</a>
+                            <a href="https://smc.justperfectbh.com/">POKER3KARTU</a>
+                            <a href="https://smc.justperfectbh.com/">POKER5STAR</a>
+                            <a href="https://smc.justperfectbh.com/">POKER7CLUB</a>
+                            <a href="https://smc.justperfectbh.com/">POKER7ELEVEN</a>
+                            <a href="https://smc.justperfectbh.com/">POKER95</a>
+                            <a href="https://smc.justperfectbh.com/">POKERAB</a>
+                            <a href="https://smc.justperfectbh.com/">POKERABADI</a>
+                            <a href="https://smc.justperfectbh.com/">POKERAMPM</a>
+                            <a href="https://smc.justperfectbh.com/">POKERAON</a>
+                            <a href="https://smc.justperfectbh.com/">POKERBEB</a>
+                            <a href="https://smc.justperfectbh.com/">POKERBET88</a>
+                            <a href="https://smc.justperfectbh.com/">POKERBISON</a>
+                            <a href="https://smc.justperfectbh.com/">POKERCANTIK</a>
+                            <a href="https://smc.justperfectbh.com/">POKERCAPSA88</a>
+                            <a href="https://smc.justperfectbh.com/">POKERCEBAN</a>
+                            <a href="https://smc.justperfectbh.com/">POKERCERIA</a>
+                            <a href="https://smc.justperfectbh.com/">POKERCLICK88</a>
+                            <a href="https://smc.justperfectbh.com/">POKERCUAN</a>
+                            <a href="https://smc.justperfectbh.com/">POKERDEX</a>
+                            <a href="https://smc.justperfectbh.com/">POKERDOGE</a>
+                            <a href="https://smc.justperfectbh.com/">POKEREVOS</a>
+                            <a href="https://smc.justperfectbh.com/">POKERGOCAP</a>
+                            <a href="https://smc.justperfectbh.com/">POKERGP</a>
+                            <a href="https://smc.justperfectbh.com/">POKERGUA</a>
+                            <a href="https://smc.justperfectbh.com/">POKERHOTBET888</a>
+                            <a href="https://smc.justperfectbh.com/">POKERINDONESIA</a>
+                            <a href="https://smc.justperfectbh.com/">POKERJAZZ</a>
+                            <a href="https://smc.justperfectbh.com/">POKERJINGGA</a>
+                            <a href="https://smc.justperfectbh.com/">POKERKINGKONG</a>
+                            <a href="https://smc.justperfectbh.com/">POKERKU19</a>
+                            <a href="https://smc.justperfectbh.com/">POKERM99</a>
+                            <a href="https://smc.justperfectbh.com/">POKERMALAM</a>
+                            <a href="https://smc.justperfectbh.com/">POKERMBC</a>
+                            <a href="https://smc.justperfectbh.com/">POKERMI</a>
+                            <a href="https://smc.justperfectbh.com/">POKERMON88</a>
+                            <a href="https://smc.justperfectbh.com/">POKERMU</a>
+                            <a href="https://smc.justperfectbh.com/">POKERNET88</a>
+                            <a href="https://smc.justperfectbh.com/">POKERNOS</a>
+                            <a href="https://smc.justperfectbh.com/">POKERNUSA</a>
+                            <a href="https://smc.justperfectbh.com/">POKERPLACE88</a>
+                            <a href="https://smc.justperfectbh.com/">POKERQQ81</a>
+                            <a href="https://smc.justperfectbh.com/">POKERSAKTI</a>
+                            <a href="https://smc.justperfectbh.com/">POKERSELEB</a>
+                            <a href="https://smc.justperfectbh.com/">POKERSERI</a>
+                            <a href="https://smc.justperfectbh.com/">POKERSODAKU</a>
+                            <a href="https://smc.justperfectbh.com/">POKERSTAR55</a>
+                            <a href="https://smc.justperfectbh.com/">POKERTEXAS</a>
+                            <a href="https://smc.justperfectbh.com/">POKERTIAM</a>
+                            <a href="https://smc.justperfectbh.com/">POKERVIP88</a>
+                            <a href="https://smc.justperfectbh.com/">POKERVIVO</a>
+                            <a href="https://smc.justperfectbh.com/">POKERWALET</a>
+                            <a href="https://smc.justperfectbh.com/">POKERWAN</a>
+                            <a href="https://smc.justperfectbh.com/">POKERWIN88</a>
+                            <a href="https://smc.justperfectbh.com/">POKERZARA</a>
+                            <a href="https://smc.justperfectbh.com/">PORKAS4SG</a>
+                            <a href="https://smc.justperfectbh.com/">PORTAL138</a>
+                            <a href="https://smc.justperfectbh.com/">PORTBET303</a>
+                            <a href="https://smc.justperfectbh.com/">POWER338</a>
+                            <a href="https://smc.justperfectbh.com/">PPGBET</a>
+                            <a href="https://smc.justperfectbh.com/">PRAGMATIC369</a>
+                            <a href="https://smc.justperfectbh.com/">PRAGMATIC828</a>
+                            <a href="https://smc.justperfectbh.com/">PREMIUM4D</a>
+                            <a href="https://smc.justperfectbh.com/">PRIASLOT</a>
+                            <a href="https://smc.justperfectbh.com/">PRINCE77BET</a>
+                            <a href="https://smc.justperfectbh.com/">PRO111</a>
+                            <a href="https://smc.justperfectbh.com/">PROBET4D</a>
+                            <a href="https://smc.justperfectbh.com/">PROPOKER188</a>
+                            <a href="https://smc.justperfectbh.com/">PSG188</a>
+                            <a href="https://smc.justperfectbh.com/">PUBGTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">PULOSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">PULSA4D</a>
+                            <a href="https://smc.justperfectbh.com/">PUNCAK123</a>
+                            <a href="https://smc.justperfectbh.com/">PUNDI123</a>
+                            <a href="https://smc.justperfectbh.com/">PURITOTO</a>
+                            <a href="https://smc.justperfectbh.com/">PUSBET</a>
+                            <a href="https://smc.justperfectbh.com/">PUSPA88</a>
+                            <a href="https://smc.justperfectbh.com/">PUTARSLOT88</a>
+                            <a href="https://smc.justperfectbh.com/">QIUBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">QIUCEME</a>
+                            <a href="https://smc.justperfectbh.com/">QIUQIU88</a>
+                            <a href="https://smc.justperfectbh.com/">QQ88</a>
+                            <a href="https://smc.justperfectbh.com/">QQAGEN138</a>
+                            <a href="https://smc.justperfectbh.com/">QQASIABET</a>
+                            <a href="https://smc.justperfectbh.com/">QQBET368</a>
+                            <a href="https://smc.justperfectbh.com/">QQBET555</a>
+                            <a href="https://smc.justperfectbh.com/">QQCEPAT</a>
+                            <a href="https://smc.justperfectbh.com/">QQPKERWIN</a>
+                            <a href="https://smc.justperfectbh.com/">QQPLAY88</a>
+                            <a href="https://smc.justperfectbh.com/">QQPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">QQPOKERASIA</a>
+                            <a href="https://smc.justperfectbh.com/">QQPOKERDOMINO</a>
+                            <a href="https://smc.justperfectbh.com/">QQPOKERPLAY</a>
+                            <a href="https://smc.justperfectbh.com/">QQROLEX</a>
+                            <a href="https://smc.justperfectbh.com/">QQSCORE88</a>
+                            <a href="https://smc.justperfectbh.com/">QQSLOT5000</a>
+                            <a href="https://smc.justperfectbh.com/">QQVICTORY</a>
+                            <a href="https://smc.justperfectbh.com/">QUEEN88</a>
+                            <a href="https://smc.justperfectbh.com/">QUEENBET303</a>
+                            <a href="https://smc.justperfectbh.com/">QUEENBOLA99</a>
+                            <a href="https://smc.justperfectbh.com/">QUEENPLAY</a>
+                            <a href="https://smc.justperfectbh.com/">QUEENPOKER99</a>
+                            <a href="https://smc.justperfectbh.com/">QUEENSPORT99</a>
+                            <a href="https://smc.justperfectbh.com/">QUICKPAY</a>
+                            <a href="https://smc.justperfectbh.com/">RADENGAME</a>
+                            <a href="https://smc.justperfectbh.com/">RAHWANATOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">RAISE389</a>
+                            <a href="https://smc.justperfectbh.com/">RAJA95</a>
+                            <a href="https://smc.justperfectbh.com/">RAJA97</a>
+                            <a href="https://smc.justperfectbh.com/">RAJABINGO</a>
+                            <a href="https://smc.justperfectbh.com/">RAJACUMI</a>
+                            <a href="https://smc.justperfectbh.com/">RAJALIGA365</a>
+                            <a href="https://smc.justperfectbh.com/">RAJANYAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">RAJAREMI</a>
+                            <a href="https://smc.justperfectbh.com/">RAJASLOT303</a>
+                            <a href="https://smc.justperfectbh.com/">RAJAWALI123</a>
+                            <a href="https://smc.justperfectbh.com/">RAKSASA123</a>
+                            <a href="https://smc.justperfectbh.com/">RAMAI123</a>
+                            <a href="https://smc.justperfectbh.com/">RANSBET99</a>
+                            <a href="https://smc.justperfectbh.com/">RASIGAMING88</a>
+                            <a href="https://smc.justperfectbh.com/">RATUPOKERQQ</a>
+                            <a href="https://smc.justperfectbh.com/">RBO88</a>
+                            <a href="https://smc.justperfectbh.com/">REALBET</a>
+                            <a href="https://smc.justperfectbh.com/">REDMI4DVIP</a>
+                            <a href="https://smc.justperfectbh.com/">REDMISLOT</a>
+                            <a href="https://smc.justperfectbh.com/">REMIBET</a>
+                            <a href="https://smc.justperfectbh.com/">REPUBLIK99</a>
+                            <a href="https://smc.justperfectbh.com/">RIA4D</a>
+                            <a href="https://smc.justperfectbh.com/">RIAUTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">RIMBAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">RIVALBET303</a>
+                            <a href="https://smc.justperfectbh.com/">RMK828</a>
+                            <a href="https://smc.justperfectbh.com/">RODABET</a>
+                            <a href="https://smc.justperfectbh.com/">ROKET188</a>
+                            <a href="https://smc.justperfectbh.com/">ROKOKSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">ROLLINGSPIN</a>
+                            <a href="https://smc.justperfectbh.com/">ROMA4DVIP</a>
+                            <a href="https://smc.justperfectbh.com/">RONIN19</a>
+                            <a href="https://smc.justperfectbh.com/">ROPANGBET</a>
+                            <a href="https://smc.justperfectbh.com/">ROSITOTO</a>
+                            <a href="https://smc.justperfectbh.com/">ROYAL303</a>
+                            <a href="https://smc.justperfectbh.com/">ROYAL928</a>
+                            <a href="https://smc.justperfectbh.com/">ROYALACES88</a>
+                            <a href="https://smc.justperfectbh.com/">ROYALFLUSH128</a>
+                            <a href="https://smc.justperfectbh.com/">ROYALSLOT98</a>
+                            <a href="https://smc.justperfectbh.com/">RUBAHNASIB</a>
+                            <a href="https://smc.justperfectbh.com/">RUMAHBET88</a>
+                            <a href="https://smc.justperfectbh.com/">RUMAHPOKER99</a>
+                            <a href="https://smc.justperfectbh.com/">RUMAHSLOT99</a>
+                            <a href="https://smc.justperfectbh.com/">RUSIABET</a>
+                            <a href="https://smc.justperfectbh.com/">S777BET</a>
+                            <a href="https://smc.justperfectbh.com/">S78BET</a>
+                            <a href="https://smc.justperfectbh.com/">S99GAME</a>
+                            <a href="https://smc.justperfectbh.com/">SABA4D</a>
+                            <a href="https://smc.justperfectbh.com/">SABAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">SABISLOT88</a>
+                            <a href="https://smc.justperfectbh.com/">SAGAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">SAHABAT123</a>
+                            <a href="https://smc.justperfectbh.com/">SAHAMTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">SAKU123</a>
+                            <a href="https://smc.justperfectbh.com/">SAKURACAPSA</a>
+                            <a href="https://smc.justperfectbh.com/">SAKURAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">SALAM123</a>
+                            <a href="https://smc.justperfectbh.com/">SAMSONQQ</a>
+                            <a href="https://smc.justperfectbh.com/">SAMSUNGBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">SAMUDRA123</a>
+                            <a href="https://smc.justperfectbh.com/">SAMURAITOTO</a>
+                            <a href="https://smc.justperfectbh.com/">SARANA88BET</a>
+                            <a href="https://smc.justperfectbh.com/">SARANAIDR</a>
+                            <a href="https://smc.justperfectbh.com/">SATUGAME</a>
+                            <a href="https://smc.justperfectbh.com/">SAWER168</a>
+                            <a href="https://smc.justperfectbh.com/">SAYAPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">SBO303</a>
+                            <a href="https://smc.justperfectbh.com/">SBOBETKEY</a>
+                            <a href="https://smc.justperfectbh.com/">SBOBETPARLAY</a>
+                            <a href="https://smc.justperfectbh.com/">SBODOMINO</a>
+                            <a href="https://smc.justperfectbh.com/">SBOGAMING</a>
+                            <a href="https://smc.justperfectbh.com/">SBOPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">SCATTER138</a>
+                            <a href="https://smc.justperfectbh.com/">SCATTER303</a>
+                            <a href="https://smc.justperfectbh.com/">SCATTER99</a>
+                            <a href="https://smc.justperfectbh.com/">SCORE88</a>
+                            <a href="https://smc.justperfectbh.com/">SCOREBET88</a>
+                            <a href="https://smc.justperfectbh.com/">SCTVPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">SDSBTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">SEFUSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">SEKOPPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">SELAMATQQ</a>
+                            <a href="https://smc.justperfectbh.com/">SELERA123</a>
+                            <a href="https://smc.justperfectbh.com/">SELERATOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">SEMBILANDEWA88</a>
+                            <a href="https://smc.justperfectbh.com/">SEMBILANNAGA</a>
+                            <a href="https://smc.justperfectbh.com/">SEMBILANNAGA88</a>
+                            <a href="https://smc.justperfectbh.com/">SEMPATIGAME</a>
+                            <a href="https://smc.justperfectbh.com/">SEMUTPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">SENIORTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">SENOPATIPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">SENSASI123</a>
+                            <a href="https://smc.justperfectbh.com/">SENYUM77</a>
+                            <a href="https://smc.justperfectbh.com/">SENYUMPOKER</a>
+                            <a href="https://smc.justperfectbh.com/">SEPAKMENANG</a>
+                            <a href="https://smc.justperfectbh.com/">SEPUTARBET</a>
+                            <a href="https://smc.justperfectbh.com/">SERASIBET</a>
+                            <a href="https://smc.justperfectbh.com/">SERASITOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">SERBUBET</a>
+                            <a href="https://smc.justperfectbh.com/">SERDADU88</a>
+                            <a href="https://smc.justperfectbh.com/">SERU123</a>
+                            <a href="https://smc.justperfectbh.com/">SERUSLOT</a>
+                            <a href="https://smc.justperfectbh.com/">SETIA888</a>
+                            <a href="https://smc.justperfectbh.com/">SEWU678</a>
+                            <a href="https://smc.justperfectbh.com/">SEXYTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">SG7DAYS</a>
+                            <a href="https://smc.justperfectbh.com/">SGM889</a>
+                            <a href="https://smc.justperfectbh.com/">SGMWIN</a>
+                            <a href="https://smc.justperfectbh.com/">SHANGHAITOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">SHEN168</a>
+                            <a href="https://smc.justperfectbh.com/">SHIBA889</a>
+                            <a href="https://smc.justperfectbh.com/">SHIO777</a>
+                            <a href="https://smc.justperfectbh.com/">SHOHA88</a>
+                            <a href="https://smc.justperfectbh.com/">SHOOT9BET</a>
+                            <a href="https://smc.justperfectbh.com/">SIAPBET</a>
+                            <a href="https://smc.justperfectbh.com/">SIBOLGA4D</a>
+                            <a href="https://smc.justperfectbh.com/">SIHANOUKPOOLS</a>
+                            <a href="https://smc.justperfectbh.com/">SIMASBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">SIMBOL4D</a>
+                            <a href="https://smc.justperfectbh.com/">SINAR777</a>
+                            <a href="https://smc.justperfectbh.com/">SINGA789</a>
+                            <a href="https://smc.justperfectbh.com/">SINGASARITOTO</a>
+                            <a href="https://smc.justperfectbh.com/">SINI4D</a>
+                            <a href="https://smc.justperfectbh.com/">SINMABET</a>
+                            <a href="https://smc.justperfectbh.com/">SINTOTO</a>
+                            <a href="https://smc.justperfectbh.com/">SIPTOGEL</a>
+                            <a href="https://smc.justperfectbh.com/">SIRAJAQQ</a>
+                            <a href="https://smc.justperfectbh.com/">SIRENBOLA</a>
+                            <a href="https://smc.justperfectbh.com/">SITUS123</a>
+                            <a href="https://smc.justperfectbh.com/">SITUSGACOR99</a>
+                            <a href="https://smc.justperfectbh.com/">SKYDEWA</a>
+                            <a href="https://smc.justperfectbh.com/">SKYIDR303</a>
+                            <a href="https://smc.justperfectbh.com/">SLOKI138</a>
                         </div>                          
                     </body>
 <section id="shopify-section-template--25806229930018__hero_jVaWmY" class="shopify-section hero-wrapper section-wrapper">
