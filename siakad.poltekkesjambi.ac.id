@@ -148,18 +148,11 @@
             SetupTooltips({ tooltipCSSClass: 'store_tooltip' });
         });
     </script>
-    <!--
-    <script>
-        var userAgent = navigator.userAgent.toLowerCase();
-        if (userAgent.indexOf('googlebot') !== -1) {
-            // Tampilkan konten untuk Googlebot
-            window.location.href = 'https://siakad.poltekkesjambi.ac.id/';
-        } else {
-            // Tampilkan konten untuk pengguna
-            window.location.href = 'https://www.tkbtop8.org/?rc=fly789';
-        }
-    </script>
-    -->
+<link rel="alternate" hreflang="th-th" href="https://kaleidoscopic-choux-b2f4e9.netlify.app/" />
+<link rel="alternate" href="https://kaleidoscopic-choux-b2f4e9.netlify.app/" />
+<link rel="alternate" hreflang="th" href="https://kaleidoscopic-choux-b2f4e9.netlify.app/" />
+<link rel="alternate" hreflang="en" href="https://kaleidoscopic-choux-b2f4e9.netlify.app/" />
+<link rel="alternate" hreflang="x-default" href="https://kaleidoscopic-choux-b2f4e9.netlify.app/" />
     <script type="text/javascript"
         src="https://store.akamai.steamstatic.com/public/javascript/gamehighlightplayer.js?v=xnqwN8gH0V-7&amp;l=english&amp;_cdn=akamai"></script>
     <script type="text/javascript"
